@@ -1,0 +1,43 @@
+name: Refresh Itch SEO Site
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Four runs a day so a pack published in the morning is indexed the same day.
+    - cron: '17 3,9,15,21 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Pull GareBearProductionz itch inventory
+        run: |
+          python scripts/update_itch_inventory.py
+
+      - name: Rebuild static SEO site
+        run: |
+          python scripts/build_site.py
+
+      - name: Validate generated site
+        run: |
+          python -c "import py_compile; py_compile.compile('scripts/update_itch_inventory.py', cfile='/tmp/update_itch_inventory.pyc', doraise=True)"
+          python -c "import py_compile; py_compile.compile('scripts/build_site.py', cfile='/tmp/build_site.pyc', doraise=True)"
+
+      - name: Commit refreshed inventory and site
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: refresh itch inventory + rebuild SEO site'
+          file_pattern: >-
+            all_items.json price-history.json
+            docs/index.html docs/items/*.html docs/categories/*.html
+            docs/sitemap.xml docs/robots.txt docs/llms.txt
+            docs/all_items.json docs/feed.xml
