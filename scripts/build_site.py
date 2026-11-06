@@ -76,6 +76,14 @@ def category_name(cat: str) -> str:
     return CATEGORY_NAMES.get(cat, cat.replace("_", " ").title())
 
 
+def display_date(value: str) -> str:
+    """Render a stored ISO timestamp as a plain date; pass anything else through."""
+    v = (value or "").strip()
+    if len(v) >= 10 and v[4] == "-" and v[7] == "-":
+        return v[:10]
+    return v
+
+
 def meta_description(item: dict) -> str:
     desc = (item.get("description") or "").strip()
     if len(desc) > 155:
@@ -189,9 +197,9 @@ def build_item_page(item: dict) -> str:
     updated = (item.get("itch") or {}).get("updated", "")
     dates = ""
     if published:
-        dates += f"<p><strong>Published:</strong> {esc(published)}</p>"
+        dates += f"<p><strong>Published:</strong> {esc(display_date(published))}</p>"
     if updated:
-        dates += f"<p><strong>Updated:</strong> {esc(updated)}</p>"
+        dates += f"<p><strong>Updated:</strong> {esc(display_date(updated))}</p>"
     body = f"""<h1>{esc(item.get("name", ""))}</h1>
 <p><a href="{SITE_URL}/categories/{quote(item.get('category', 'game_tools'))}.html">{esc(category_name(item.get('category', '')))}</a> · <span class="price">{esc(price_text(item))}</span></p>
 {img_tag}

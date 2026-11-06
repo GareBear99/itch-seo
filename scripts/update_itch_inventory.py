@@ -31,7 +31,7 @@ import json
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Iterable
 from urllib.error import HTTPError, URLError
@@ -65,6 +65,61 @@ CATEGORY_RULES = [
 
 def now_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+RELATIVE_UNITS = {"minute": 60, "minutes": 60, "hour": 3600, "hours": 3600,
+                  "day": 86400, "days": 86400, "week": 604800, "weeks": 604800,
+                  "month": 2592000, "months": 2592000, "year": 31536000, "years": 31536000}
+
+
+def parse_item_date(raw: str, now: datetime | None = None) -> str | None:
+    """Turn an itch date string into an absolute UTC ISO timestamp.
+
+    itch shows relative dates ("24 minutes ago", "5 days ago") that tick
+    forward on every fetch — storing them raw makes every run look like a
+    change. Converting to an absolute timestamp at fetch time keeps the
+    inventory stable between runs. Returns None when unparseable.
+    """
+    now = now or datetime.now(timezone.utc)
+    s = (raw or "").strip()
+    if not s:
+        return None
+    if s.lower() in {"just now", "a moment ago"}:
+        return now.replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    m = re.match(r"(\d+)\s+(minute|minutes|hour|hours|day|days|week|weeks|month|months|year|years)\s+ago", s, re.I)
+    if m:
+        seconds = int(m.group(1)) * RELATIVE_UNITS[m.group(2).lower()]
+        return (now - timedelta(seconds=seconds)).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    for fmt in ("%d %b %Y @ %H:%M %Z", "%d %b %Y", "%b %d, %Y", "%B %d, %Y", "%Y-%m-%d"):
+        try:
+            dt = datetime.strptime(s, fmt)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+        except ValueError:
+            continue
+    # Already an ISO timestamp.
+    try:
+        dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
+        return dt.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    except ValueError:
+        return None
+
+
+def _sameish_date(old: str | None, new: str | None, tolerance_s: int = 3 * 3600) -> bool:
+    """True when two stored dates are close enough to be the same event.
+
+    Relative strings are rounded by itch ("24 minutes ago"), so a fresh
+    conversion lands a minute or two from the stored one. Within tolerance,
+    keep the stored value so the inventory stays byte-stable.
+    """
+    if not old or not new:
+        return False
+    try:
+        a = datetime.fromisoformat(old.replace("Z", "+00:00"))
+        b = datetime.fromisoformat(new.replace("Z", "+00:00"))
+        return abs((a - b).total_seconds()) <= tolerance_s
+    except ValueError:
+        return old == new
 
 
 def fetch(url: str, timeout: int = 25, tries: int = 3, sleep_s: float = 0.8) -> str:
@@ -348,7 +403,10 @@ def merge_item(existing: dict | None, scraped: dict) -> dict:
         "rank": scraped.get("rank") or (existing or {}).get("rank", 999),
         "name": scraped.get("name") or (existing or {}).get("name", ""),
         "url": scraped.get("url") or (existing or {}).get("url", ""),
-        "priceType": scraped.get("priceType") or (existing or {}).get("priceType", "paid"),
+        # Only take the scraped price type when the profile actually showed a
+        # price: some "Name your own price" items show no label at all on the
+        # profile, and the detail page already proved them free.
+        "priceType": scraped.get("priceType") if scraped.get("price") is not None else (existing or {}).get("priceType") or scraped.get("priceType", "paid"),
         "price": scraped.get("price") if scraped.get("price") is not None else (existing or {}).get("price"),
         "status": (existing or {}).get("status", "released"),
         "accountOwner": "GareBearProductionz",
@@ -368,16 +426,31 @@ def merge_item(existing: dict | None, scraped: dict) -> dict:
     merged.setdefault("featured", False)
     old_media = merged.get("media") or {}
     new_media = scraped.get("media") or {}
+    # Keep the existing cover once one is known: the profile thumbnail and
+    # the detail og:image are different variants of the same art, and
+    # swapping between them every run makes every run look like a change.
+    cover = old_media.get("cover") or new_media.get("cover", "")
+    animated = old_media.get("animated") or new_media.get("animated", "")
+    media_changed = (cover != old_media.get("cover") or animated != old_media.get("animated"))
     merged["media"] = {
-        "cover": new_media.get("cover") or old_media.get("cover", ""),
-        "animated": new_media.get("animated") or old_media.get("animated", ""),
-        "type": "gif" if (new_media.get("animated") or old_media.get("animated")) else ("image" if (new_media.get("cover") or old_media.get("cover")) else "fallback"),
+        "cover": cover,
+        "animated": animated,
+        "type": "gif" if animated else ("image" if cover else "fallback"),
         "alt": merged.get("name", "GareBearProductionz itch item cover"),
-        "source": new_media.get("source") or old_media.get("source", "pending-autopull"),
-        "updatedAt": now_iso(),
+        "source": old_media.get("source") or new_media.get("source") or "pending-autopull",
+        "updatedAt": now_iso() if media_changed or not old_media.get("updatedAt") else old_media["updatedAt"],
     }
-    itch = dict(merged.get("itch") or {})
-    itch.update(scraped.get("itch") or {})
+    old_itch = dict(merged.get("itch") or {})
+    new_itch = dict(scraped.get("itch") or {})
+    # The profile price label is display-only and unstable between fetches
+    # (sale suffixes like "-50%" come and go, "Free" vs "Name your own
+    # price" varies) while the numeric price stays put. Only take a new
+    # label when the numeric price moved or the item is new.
+    price_moved = (existing or {}).get("price") != scraped.get("price") and scraped.get("price") is not None
+    if not price_moved and old_itch.get("priceLabel"):
+        new_itch["priceLabel"] = old_itch["priceLabel"]
+    itch = dict(old_itch)
+    itch.update(new_itch)
     itch.setdefault("slug", slug_from_url(merged.get("url", "")))
     itch.setdefault("creator", "GareBearProductionz")
     merged["itch"] = itch
@@ -385,14 +458,20 @@ def merge_item(existing: dict | None, scraped: dict) -> dict:
 
 
 def profile_changed(existing: dict | None, scraped: dict) -> bool:
-    """True when a slug is new, or its profile-visible data moved since the last run."""
+    """True when a slug is new, its name moved, or its numeric price moved.
+
+    The profile price label and cover variant churn between fetches while
+    the price and art stay the same, so they are deliberately NOT triggers
+    — a detail fetch per run per item would make every run look changed.
+    """
     if not existing:
         return True
     if existing.get("name") != scraped.get("name"):
         return True
-    if (existing.get("itch") or {}).get("priceLabel") != (scraped.get("itch") or {}).get("priceLabel"):
+    scraped_price = scraped.get("price")
+    if scraped_price is not None and existing.get("price") != scraped_price:
         return True
-    if (existing.get("media") or {}).get("cover") != (scraped.get("media") or {}).get("cover"):
+    if not (existing.get("itch") or {}).get("detailEnrichedAt"):
         return True
     return False
 
@@ -418,10 +497,18 @@ def enrich_from_detail_page(item: dict) -> tuple[dict, str]:
     media["updatedAt"] = now_iso()
     text = clean_text(body)
     itch = item.setdefault("itch", {})
+    now = datetime.now(timezone.utc)
     for label in ["Published", "Updated"]:
         m = re.search(label + r"\s+(.{0,60}?)(?:\s+(?:Updated|Published|Status|Category|Author|Tags|Purchase|Game assets)|$)", text, re.I)
         if m:
-            itch[label.lower()] = " ".join(m.group(1).split())[:60]
+            raw = " ".join(m.group(1).split())[:60]
+            ts = parse_item_date(raw, now)
+            if ts:
+                key = label.lower()
+                if not _sameish_date(itch.get(key), ts):
+                    itch[key] = ts
+            elif raw:
+                itch[label.lower()] = raw
     # Price: the profile grid shows no label at all for some "Name your own
     # price" items, so resolve the price from the detail page itself. The
     # page embeds "min_price"/"actual_price" in cents.
@@ -507,6 +594,41 @@ def diff_items(old_items: list[dict], new_items: list[dict]) -> dict:
     return {"added": added, "removed": removed, "priceChanged": price_changed, "changed": changed}
 
 
+VOLATILE_KEYS = {"generatedAt"}
+
+
+def _stripped(item: dict) -> dict:
+    """A copy of an item with run-volatile fields removed for comparison."""
+    import copy
+    c = copy.deepcopy(item)
+    (c.get("media") or {}).pop("updatedAt", None)
+    itch = c.get("itch") or {}
+    for k in ("lastSeenOnProfile", "detailEnrichedAt"):
+        itch.pop(k, None)
+    return c
+
+
+def meaningful_change(old_manifest: dict, new_items: list[dict]) -> bool:
+    """True when the inventory really moved (items added/removed, or a
+    name/description/price/category/media change). Timestamps, last-seen
+    stamps, and the unstable profile price label do not count."""
+    old_items = old_manifest.get("items", [])
+    if len(old_items) != len(new_items):
+        return True
+    old_by_slug = {slug_from_url(i.get("url", "")): _stripped(i) for i in old_items}
+    new_by_slug = {slug_from_url(i.get("url", "")): _stripped(i) for i in new_items}
+    if set(old_by_slug) != set(new_by_slug):
+        return True
+    for slug, new_item in new_by_slug.items():
+        old_item = old_by_slug[slug]
+        # Price label is display-only churn; the numeric price is the truth.
+        old_item.get("itch", {}).pop("priceLabel", None)
+        new_item.get("itch", {}).pop("priceLabel", None)
+        if old_item != new_item:
+            return True
+    return False
+
+
 def update_manifest(enrich_details: bool = True, limit: int | None = None) -> tuple[dict, dict, dict]:
     old_manifest = load_json(MANIFEST_PATH, {"items": []})
     old_items = old_manifest.get("items", [])
@@ -546,7 +668,25 @@ def update_manifest(enrich_details: bool = True, limit: int | None = None) -> tu
 
     merged.sort(key=lambda x: x.get("rank", 999))
     diff = diff_items(old_items, merged)
-    history = update_price_history(load_json(PRICE_HISTORY_PATH, {}), merged)
+    old_history = load_json(PRICE_HISTORY_PATH, {})
+    if not meaningful_change(old_manifest, merged):
+        # Nothing real moved (timestamps and label churn excluded): keep the
+        # committed files byte-identical so the scheduled job commits nothing.
+        report = {
+            "generatedAt": now_iso(),
+            "profileUrl": PROFILE_URL,
+            "itemsParsed": len(scraped),
+            "itemsWritten": len(merged),
+            "mediaReadyItems": sum(1 for i in merged if (i.get("media") or {}).get("cover") or (i.get("media") or {}).get("animated")),
+            "detailEnriched": len(detail_status),
+            "detailStatus": detail_status[:200],
+            "diff": {
+                "added": [], "removed": [], "priceChanged": [], "changed": [],
+            },
+            "changed": False,
+        }
+        return old_manifest, old_history, report
+    history = update_price_history(old_history, merged)
 
     manifest = {
         "generatedAt": now_iso(),
@@ -581,6 +721,7 @@ def update_manifest(enrich_details: bool = True, limit: int | None = None) -> tu
             "priceChanged": diff["priceChanged"],
             "changed": [i.get("name") for i in diff["changed"]],
         },
+        "changed": True,
     }
     return manifest, history, report
 
@@ -591,9 +732,13 @@ def main() -> int:
     ap.add_argument("--limit", type=int, default=None, help="Debug limit for number of profile items to process.")
     args = ap.parse_args()
     manifest, history, report = update_manifest(enrich_details=not args.no_detail, limit=args.limit)
+    d = report["diff"]
+    if not report.get("changed", True):
+        print(f"no meaningful changes: {MANIFEST_PATH} left untouched "
+              f"({report['itemsWritten']} items, {report['detailEnriched']} detail pages fetched)")
+        return 0
     MANIFEST_PATH.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     PRICE_HISTORY_PATH.write_text(json.dumps(history, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    d = report["diff"]
     print(f"wrote {MANIFEST_PATH} with {report['itemsWritten']} items "
           f"({report['detailEnriched']} detail pages fetched); media ready {report['mediaReadyItems']}; "
           f"added {len(d['added'])}, removed {len(d['removed'])}, "
