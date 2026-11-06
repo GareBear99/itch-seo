@@ -1,0 +1,1288 @@
+{
+  "orc-bungalo-mystic-meadow-arena-kit": {
+    "name": "Orc Bungalo - Mystic Meadow Arena Kit",
+    "history": [
+      {
+        "price": 5.5,
+        "priceLabel": "$5.50",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "a-devils-game-hellfire-arena-kit": {
+    "name": "A Devil's Game - Hellfire Arena Kit",
+    "history": [
+      {
+        "price": 2.1,
+        "priceLabel": "$2.10 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "the-kings-gambit-gothic-arena-kit-v100": {
+    "name": "THE KING'S GAMBIT - GOTHIC ARENA KIT v1.0.0",
+    "history": [
+      {
+        "price": 2.25,
+        "priceLabel": "$2.25 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "frostbound-arena-winter-pixel-arena-kit-tileset-heroes-enemies-boss-ui-sfx-music": {
+    "name": "Frostbound Arena - Winter Pixel Arena Kit (Tileset, Heroes, Enemies, Boss, UI, SFX + Music)",
+    "history": [
+      {
+        "price": null,
+        "priceLabel": "",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:25:27Z"
+      },
+      {
+        "price": 0.0,
+        "priceLabel": "Name your own price",
+        "firstSeen": "2026-11-06T04:26:24Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "impact-fx-advanced-12-hero-pixel-vfx-meteor-black-hole-portal-tornado-more": {
+    "name": "Impact FX Advanced - 12 Hero Pixel VFX | Meteor, Black Hole, Portal, Tornado & More",
+    "history": [
+      {
+        "price": 3.89,
+        "priceLabel": "$3.89 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "impact-fx-christmas-edition-pixel-winter-vfx-sfx-pack": {
+    "name": "Impact FX - Christmas Edition | Pixel Winter VFX + SFX Pack",
+    "history": [
+      {
+        "price": 0.96,
+        "priceLabel": "$0.96 -20%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "impact-fx-lite-free-pixel-vfx-sfx-sampler": {
+    "name": "Impact FX Lite - Free Pixel VFX + SFX Sampler",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "impact-fx-halloween-edition-pixel-spooky-vfx-sfx-pack": {
+    "name": "Impact FX - Halloween Edition | Pixel Spooky VFX + SFX Pack",
+    "history": [
+      {
+        "price": 1.62,
+        "priceLabel": "$1.62 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "impact-fx-pixel-combat-vfx-sfx-pack": {
+    "name": "IMPACT FX - Pixel Combat VFX + SFX Pack",
+    "history": [
+      {
+        "price": 0.78,
+        "priceLabel": "$0.78 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "halloween-asset-audio-sfx-pack-free": {
+    "name": "Halloween Asset & Audio SFX Pack (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "subwoofer-crown-bass-pack": {
+    "name": "Subwoofer Crown Bass Pack (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "808-producer-kit": {
+    "name": "808 Producer Kit",
+    "history": [
+      {
+        "price": 1.37,
+        "priceLabel": "$1.37",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "violin-synth-sample-kit": {
+    "name": "Violin Synth Sample Kit",
+    "history": [
+      {
+        "price": 2.5,
+        "priceLabel": "$2.50",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "animated-vfx-ui-pack-80-assets": {
+    "name": "Animated VFX UI Pack - 80+ Assets",
+    "history": [
+      {
+        "price": 4.87,
+        "priceLabel": "$4.87 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "dark-fantasy-modular-gui-pack-704-ui-assets-160-icons": {
+    "name": "Dark Fantasy Modular GUI Pack - 704 UI Assets + 160 Icons",
+    "history": [
+      {
+        "price": 7.15,
+        "priceLabel": "$7.15 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "arcanum-i-part-2-animated-pixel-spell-abilities-23-spells-752-frames": {
+    "name": "Arcanum I - Part 2 — Animated Pixel Spell Abilities (23 spells, 752 frames)",
+    "history": [
+      {
+        "price": 2.88,
+        "priceLabel": "$2.88 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "arcanum-i-part-1-animated-pixel-spell-effects-75-effects-1200-frames": {
+    "name": "Arcanum I - Part 1— Animated Pixel Spell Effects (75 effects, 1,200 frames)",
+    "history": [
+      {
+        "price": 1.78,
+        "priceLabel": "$1.78 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "elemental-wisp-sprite-pack": {
+    "name": "Elemental Wisp Sprite Pack",
+    "history": [
+      {
+        "price": 2.16,
+        "priceLabel": "$2.16 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "pyre-fire-pack-generator-tools": {
+    "name": "Pyre Fire Pack Generator Tools",
+    "history": [
+      {
+        "price": 3.25,
+        "priceLabel": "$3.25 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "gossamer-pixel-cobwebs-corner-webs-screen-overlays": {
+    "name": "Gossamer — 289 Pixel Cobwebs, Corner Webs & Screen Overlays",
+    "history": [
+      {
+        "price": 1.12,
+        "priceLabel": "$1.12 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "120-elemental-vfx-pixel-abilities-icons": {
+    "name": "120 Elemental VFX Pixel Abilities & Icons",
+    "history": [
+      {
+        "price": 2.16,
+        "priceLabel": "$2.16 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "256-pixel-runes-glyphs-symbols-that-write-themselves": {
+    "name": "256 pixel runes, glyphs & symbols that write themselves",
+    "history": [
+      {
+        "price": 2.16,
+        "priceLabel": "$2.16 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "1200-animated-pixel-sigils-magic-circles-runes-loading-spinners": {
+    "name": "1,200 Animated Pixel Sigils - Magic Circles, Runes & Loading Spinners",
+    "history": [
+      {
+        "price": 2.88,
+        "priceLabel": "$2.88 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "cloudworks-pixel-cloud-parallax-toolkit-trains": {
+    "name": "Cloudworks - Pixel Cloud & Parallax Toolkit + Trains!",
+    "history": [
+      {
+        "price": 6.99,
+        "priceLabel": "$6.99",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "japanese-dojo-tileset-free": {
+    "name": "Japanese Dojo Tileset (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "dark-fantasy-dungeon-builder-free-four-realm-tileset": {
+    "name": "Dark Fantasy Dungeon Builder - Free Four-Realm Tileset",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "cosmic-disruption-free-fast-paced-game-music-pack": {
+    "name": "COSMIC DISRUPTION – Free Fast-Paced Game Music Pack",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "orerry-solar-system-pack": {
+    "name": "Orerry Solar System Pack - Live VFX Animations + Scale Accuracy & Tilt",
+    "history": [
+      {
+        "price": null,
+        "priceLabel": "",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:25:27Z"
+      },
+      {
+        "price": 0.0,
+        "priceLabel": "Name your own price",
+        "firstSeen": "2026-11-06T04:26:24Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "coin-physics-pack-engine-kit-triple-buffer-atomic-swap-hash-receipts": {
+    "name": "Coin Physics & Triple Buffer Atomic Swap Pack & Engine Kit",
+    "history": [
+      {
+        "price": 11.24,
+        "priceLabel": "$11.24 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "riftedge-1001-slash-fx": {
+    "name": "Riftedge - 1001 Slash FX Pack",
+    "history": [
+      {
+        "price": 2.22,
+        "priceLabel": "$2.22 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "slash-fx-101": {
+    "name": "Slash FX 101 (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "rift-edge-laser-sword-glow-slash-pack": {
+    "name": "Rift Edge - Laser Sword & Glow Slash Pack",
+    "history": [
+      {
+        "price": 0.8,
+        "priceLabel": "$0.80 -33%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "shoji-dojo": {
+    "name": "Shoji Dojo - Matrix Rooms 750+ Combinations",
+    "history": [
+      {
+        "price": 3.6,
+        "priceLabel": "$3.60 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "hemorrhage-blood-fx": {
+    "name": "HEMORRHAGE - Chaos Blood FX",
+    "history": [
+      {
+        "price": 0.97,
+        "priceLabel": "$0.97 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "ichor-glyph": {
+    "name": "Chaos Arcanum Part 1 - Blood FX & More",
+    "history": [
+      {
+        "price": 1.13,
+        "priceLabel": "$1.13 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "spectral-carnage-sewers-free-tileset-map": {
+    "name": "SLAGWORKS: Spectral Carnage Sewer Deck (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "slagworks-cinderhaul-6-map-animated-tileset": {
+    "name": "SLAGWORKS: CinderHaul - 6 Map Animated Tileset 1,910 Sprites",
+    "history": [
+      {
+        "price": 2.22,
+        "priceLabel": "$2.22 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "the-ultimate-everything-laser-pack": {
+    "name": "The Ultimate Everything Laser Pack & Dynamic Generator Engine (49 Sprite Sheets)",
+    "history": [
+      {
+        "price": 6.5,
+        "priceLabel": "$6.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "40-animated-pixel-fx-pack-dash-land-impact": {
+    "name": "40 animated Pixel FX Pack - Dash, Land, Impact",
+    "history": [
+      {
+        "price": 2.88,
+        "priceLabel": "$2.88 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "shadow-pixel-character-pack-copies-any-sprite": {
+    "name": "Shadow Pixel Character Pack - copies any sprite",
+    "history": [
+      {
+        "price": 9.75,
+        "priceLabel": "$9.75 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "shadow-run-map-layers-live-smog-fx": {
+    "name": "Live Smog VFX & Shadow Run Map Layers",
+    "history": [
+      {
+        "price": 1.37,
+        "priceLabel": "$1.37 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "yurei-shadow-fighters-three-silhouette-characters": {
+    "name": "Yurei Shadow Fighters - Three Silhouette Characters",
+    "history": [
+      {
+        "price": 2.87,
+        "priceLabel": "$2.87 -18%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "yurei-echo-shadow-character-pack": {
+    "name": "Yurei - Echo Shadow Character Pack",
+    "history": [
+      {
+        "price": 4.1,
+        "priceLabel": "$4.10 -18%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "shadow-fighters-dragon-knight-iron-sentinel-xeno-grunt-raptor": {
+    "name": "Shadow Fighters — Dragon Knight, Iron Sentinel, Xeno Grunt (+ Raptor)",
+    "history": [
+      {
+        "price": 3.07,
+        "priceLabel": "$3.07 -18%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "shadow-trooper-silhouette-free": {
+    "name": "Shadow Trooper Silhouette (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "victory-wraith-free": {
+    "name": "Victory Wraith (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "divinity-the-imperilator-arms-and-the-seven-sins": {
+    "name": "DIVINITY — the Imperilator arms and the seven sins (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "sugarfall-the-pink-party-pack-free": {
+    "name": "SUGARFALL — the pink party pack (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "cash-cloud": {
+    "name": "Cash Cloud Sprite Pack (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "mode-7": {
+    "name": "MODE-7 FLOORCAST ENGINE",
+    "history": [
+      {
+        "price": 5.5,
+        "priceLabel": "$5.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "bundle": {
+    "name": "NECROMANCER'S TOOLKIT - EXPANDED RITUAL WORLD BUNDLE EDITION",
+    "history": [
+      {
+        "price": 12.0,
+        "priceLabel": "$12 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "enchanted-sprite-vfx-engine": {
+    "name": "ENCHANTED SPRITE VFX ENGINE",
+    "history": [
+      {
+        "price": 8.45,
+        "priceLabel": "$8.45 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "holo-sprite-overlay-engine": {
+    "name": "HOLO SPRITE OVERLAY EXPORT ENGINE",
+    "history": [
+      {
+        "price": 8.25,
+        "priceLabel": "$8.25 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "necrommancers-audio-toolkit": {
+    "name": "Necrommancers Sacred Geometry Audio ToolKit",
+    "history": [
+      {
+        "price": 3.33,
+        "priceLabel": "$3.33 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "doom-style-ray-trace-engine-asset-pack": {
+    "name": "Doom Style Ray Cast Engine & Asset Pack",
+    "history": [
+      {
+        "price": 2.5,
+        "priceLabel": "$2.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "d20-dice-color-3d-obj-pack": {
+    "name": "Transparent D20 Dice Color 3D OBJ Pack",
+    "history": [
+      {
+        "price": 9.75,
+        "priceLabel": "$9.75 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "black-red-dice-svg-png-export-engine": {
+    "name": "Black & Red Dice SVG & PNG 2D-3D Export Engine",
+    "history": [
+      {
+        "price": 3.5,
+        "priceLabel": "$3.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "infina-dix-engine": {
+    "name": "The Infina Dix Engine (Ultimate Free Dice Pack)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "color-dynamic-sigils-svg-export-pack": {
+    "name": "12 Sigil Color Dynamic Icon SVG Export Pack & Hover FX Engine",
+    "history": [
+      {
+        "price": 1.66,
+        "priceLabel": "$1.66 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "sphinx-activation-layered-live-map": {
+    "name": "Sphinx Pyramid Activation Layered Live Animated Map Backdrop",
+    "history": [
+      {
+        "price": 3.5,
+        "priceLabel": "$3.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "10-svg-programmable-live-backdrop-pipelines": {
+    "name": "20+ SVG Programmable Live Backdrop Pipelines & Layers Vol 1",
+    "history": [
+      {
+        "price": 2.5,
+        "priceLabel": "$2.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "aaaa-layered-mountain-dynamic-sky-live-backdrop-engine": {
+    "name": "AAAA Layered Mountain Dynamic Sky Live Backdrop Engine",
+    "history": [
+      {
+        "price": 0.75,
+        "priceLabel": "$0.75 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "aaaa-pixel-combat-timeline-engine": {
+    "name": "AAAA Pixel Combat Timeline Engine",
+    "history": [
+      {
+        "price": 11.25,
+        "priceLabel": "$11.25 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "aaaa-sprite-fusion-metamorphosis-equation-spine-engine": {
+    "name": "AAAA Sprite Fusion, Metamorphosis & Equation Spine Engine",
+    "history": [
+      {
+        "price": 18.75,
+        "priceLabel": "$18.75 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "sprite-color-effect-mutator-engine": {
+    "name": "AAAA Sprite Mutation & Continuity Engine & Exporter",
+    "history": [
+      {
+        "price": 8.25,
+        "priceLabel": "$8.25 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "celestial-event-moons": {
+    "name": "Celestial Event Moons + Dynamic Generator Engine",
+    "history": [
+      {
+        "price": 1.62,
+        "priceLabel": "$1.62 -35%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "multi-layered-epic-free-svg-backdrop-static-scene": {
+    "name": "Multi Layered Epic Free SVG Backdrop Static Scene (Free)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "evil-eye-four-pack": {
+    "name": "Evil Eye Four Pack & Live SVG Animations",
+    "history": [
+      {
+        "price": 0.5,
+        "priceLabel": "$0.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "alien-invasion-live-animated-backdrop-layers": {
+    "name": "ALIEN INVASION!!! 2D UFO Live Pixel Animated Backdrop & Layers",
+    "history": [
+      {
+        "price": 3.5,
+        "priceLabel": "$3.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "wraith-necropolis-gate-backdrop": {
+    "name": "Wraith Necropolis Gate Backdrop & Layers FREE",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "vfx-test-room-elemental-frequency-arena-engine": {
+    "name": "VFX Test Rooms & Elemental Frequency Arena Engines (FREE 2D-3D)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "the-cathedral-of-madness-concept-pixel-art": {
+    "name": "The Cathedral of Madness - Concept Pixel Art",
+    "history": [
+      {
+        "price": null,
+        "priceLabel": "",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:25:27Z"
+      },
+      {
+        "price": 0.0,
+        "priceLabel": "Name your own price",
+        "firstSeen": "2026-11-06T04:26:24Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "pride-crown-concept-art": {
+    "name": "Pride Crown Concept Sprite Art (Free)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "scarlette-witchs-darkhold-sprite-free": {
+    "name": "Scarlet Witch DarkHold Sprite (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "hells-jukebox-nekranomicon-author-cthulu": {
+    "name": "Hell's Jukebox Demo & NEKRANOMICON - Author: Cthulu",
+    "history": [
+      {
+        "price": null,
+        "priceLabel": "",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:25:27Z"
+      },
+      {
+        "price": 0.0,
+        "priceLabel": "Name your own price",
+        "firstSeen": "2026-11-06T04:26:24Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "the-widowmaker-live-vanta-black-svg-3-phase-boss": {
+    "name": "The WidowMaker: Live HD Vanta Black SVG 3 Phase Boss + GIF Exporter (Free)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "cool-pixel-portraits": {
+    "name": "Free Pixel SVG Portrait Asset Builder Kit (Generator & Pack)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "megabot-rigging-concept-free": {
+    "name": "Pixel MegaBot Rigging Concept + SVG (Free)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "2d-chibi-pixel-elemental-rigging-concept": {
+    "name": "2D Chibi-Pixel Elemental Rigging Concept (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "hd-cinematic-audio-sfx-pack-free": {
+    "name": "HD Cinematic Audio SFX Pack (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "professional-grade-studio-violin-audio-synth-formula": {
+    "name": "Professional Grade Studio Violin Audio Synth Formula",
+    "history": [
+      {
+        "price": null,
+        "priceLabel": "",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:25:27Z"
+      },
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:26:24Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "ultimate-free-hd-laser-pack": {
+    "name": "HD Pixel Laser Beam Pulse Glow FX Pack & Audio SFX (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "pixel-velocity-weight-physics-quake-hammer": {
+    "name": "Pixel Elemental Velocity Weight Physics 2.5D Quake Hammer (FREE Thor Engine)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "blood-bound-scythe-svg-free": {
+    "name": "Blood Bound by Pixel Scythe & SVG (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "gw3-style-2d-projected-3d-grid-world-engine": {
+    "name": "GW3 Style 2D Projected 3D Grid World Synth Engine (Free)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "freeeq8-most-advanced-free-eq-opensource": {
+    "name": "FreeEQ8 (Most Advanced EQ OpenSource)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "Free",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "any-image-to-pixel-svg-converter": {
+    "name": "Any Image to Pixel SVG Converter (Only 1 FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "infernal-hell-icons-free-basic-fx": {
+    "name": "SVG Hell Fiery Icon Pipelines + Basic Live FX",
+    "history": [
+      {
+        "price": null,
+        "priceLabel": "",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:25:27Z"
+      },
+      {
+        "price": 0.0,
+        "priceLabel": "Name your own price",
+        "firstSeen": "2026-11-06T04:26:24Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "svg-icon-starter-kit-pipeline": {
+    "name": "Live SVG Icon Starter Kit Pipeline + 4 Live Hell FX Icons",
+    "history": [
+      {
+        "price": 0.75,
+        "priceLabel": "$0.75 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "holy-svg-png-icon-set": {
+    "name": "Holy Live FX SVG & PNG Icon 8-Set Pipeline Kit",
+    "history": [
+      {
+        "price": 2.0,
+        "priceLabel": "$2 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "spectral-icon-svg-pipeline-kit": {
+    "name": "Spectral Icon SVG Pipeline Kit",
+    "history": [
+      {
+        "price": 1.66,
+        "priceLabel": "$1.66 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "thor-mjolnir-svg-physics-engine": {
+    "name": "Thor Mjölnir 4 Set + SVG Physics Velocity Engine + Bonus Quake Hammer Set",
+    "history": [
+      {
+        "price": 1.0,
+        "priceLabel": "$1 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "blood-bone-scythe": {
+    "name": "Pixel Blood & Bone Demon Scythe + SVG (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "free-pixel-paladin-hammer-chibi": {
+    "name": "(FREE) Pixel Paladin Hammer + Chibi",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "professional-occult-covenant-icon-kit": {
+    "name": "Professional Occult Covenant Icon Kit & FX Formula",
+    "history": [
+      {
+        "price": 3.33,
+        "priceLabel": "$3.33 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "indie-dynamic-merchant-cart": {
+    "name": "AAAA Indie Dynamic Merchant Cart",
+    "history": [
+      {
+        "price": 10.0,
+        "priceLabel": "$10 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "pixel-abyssal-teleporter": {
+    "name": "Pixel Abyssal Teleportation Device",
+    "history": [
+      {
+        "price": 0.75,
+        "priceLabel": "$0.75 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "static-atmos": {
+    "name": "Static Atmos - PDF Demo 'Wraith Eternal' Comic",
+    "history": [
+      {
+        "price": null,
+        "priceLabel": "",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:25:27Z"
+      },
+      {
+        "price": 0.0,
+        "priceLabel": "Name your own price",
+        "firstSeen": "2026-11-06T04:26:24Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "demon-sprite-sheet-generator": {
+    "name": "AA Indie Demon Sprite Sheet Generator Formula V1",
+    "history": [
+      {
+        "price": 2.49,
+        "priceLabel": "$2.49 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "fireball-generator-formula": {
+    "name": "FireBall Generator & Formula/Sprite Exporter",
+    "history": [
+      {
+        "price": 7.5,
+        "priceLabel": "$7.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "pyromancy-chibi-pack": {
+    "name": "Pyro-Maniac Chibi Sprite Pack (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "infernal-archetypes": {
+    "name": "Infernal Archetype Sprites (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "free-haunter-sprites": {
+    "name": "FREE Haunter Sprites",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "action-command-charge-formula": {
+    "name": "Action Command Charge Formula",
+    "history": [
+      {
+        "price": 0.75,
+        "priceLabel": "$0.75 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "reward-pocket-generator-formula": {
+    "name": "Reward Pocket Generator Formula",
+    "history": [
+      {
+        "price": 0.5,
+        "priceLabel": "$0.50 -50%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "neolution-grid-engine": {
+    "name": "Neolution & Grid Engine (Controller Support)",
+    "history": [
+      {
+        "price": 3.75,
+        "priceLabel": "$3.75 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "skully-asset-pack-lightweight-canvas-engine-demo": {
+    "name": "Skully Asset Pack & Lightweight Canvas Engine Demo",
+    "history": [
+      {
+        "price": null,
+        "priceLabel": "",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:25:27Z"
+      },
+      {
+        "price": 0.0,
+        "priceLabel": "Name your own price",
+        "firstSeen": "2026-11-06T04:26:24Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "gravity-projectile-generator-formula": {
+    "name": "2D-2.5D Gravity Projectile Generator/Formula",
+    "history": [
+      {
+        "price": null,
+        "priceLabel": "",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:25:27Z"
+      },
+      {
+        "price": 0.0,
+        "priceLabel": "Name your own price",
+        "firstSeen": "2026-11-06T04:26:24Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "2d-sunset-generation-formula": {
+    "name": "2D Sunset Generator & Formula + Sprites (FREE)",
+    "history": [
+      {
+        "price": 0.0,
+        "priceLabel": "FREE",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "live-pentagram-formula-2d-3d": {
+    "name": "Live Pentagram Formula 2D-2.5D",
+    "history": [
+      {
+        "price": 4.99,
+        "priceLabel": "$4.99 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "npc-theme-of-sacrifice": {
+    "name": "NPC Theme of Sacrifice",
+    "history": [
+      {
+        "price": 1.87,
+        "priceLabel": "$1.87 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  },
+  "summoners-delights": {
+    "name": "Summoner's Delight",
+    "history": [
+      {
+        "price": 0.75,
+        "priceLabel": "$0.75 -25%",
+        "firstSeen": "2026-11-06T04:25:27Z",
+        "lastSeen": "2026-11-06T04:26:24Z"
+      }
+    ]
+  }
+}
