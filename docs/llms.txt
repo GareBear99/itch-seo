@@ -21,7 +21,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/color-dynamic-sigils-svg-export-pack
   Price: $1.66 CAD
 
-- 120 Elemental VFX Pixel Abilities & Icons: 120 Elemental VFX Pixel Abilities & Icons
+- 120 Elemental VFX Pixel Abilities & Icons: 120 animated magic effects, 12 families, fire, frost, blood, void and more, 960 frames, 120 icons, Godot/Unity guides
   Page: https://garebear99.github.io/itch-seo/items/120-elemental-vfx-pixel-abilities-icons.html
   itch.io: https://garebearproductionz.itch.io/120-elemental-vfx-pixel-abilities-icons
   Price: $2.16 CAD
@@ -46,7 +46,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/2d-sunset-generation-formula
   Price: Free
 
-- 2D-2.5D Gravity Projectile Generator/Formula: 2D-2.5D Gravity Projectile Generator/Formula
+- 2D-2.5D Gravity Projectile Generator/Formula: Stop guessing how projectiles behave - model ballistic fields under physics matrices, generate matching animated sheets.
   Page: https://garebear99.github.io/itch-seo/items/gravity-projectile-generator-formula.html
   itch.io: https://garebearproductionz.itch.io/gravity-projectile-generator-formula
   Price: Free
@@ -66,7 +66,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/a-devils-game-hellfire-arena-kit
   Price: $2.10 CAD
 
-- AA Indie Demon Sprite Sheet Generator Formula V1: AA Indie Demon Sprite Sheet Generator Formula V1
+- AA Indie Demon Sprite Sheet Generator Formula V1: A demon sprite-sheet generator formula - deterministic asset generation for your own demon sprites, fast, repeatable.
   Page: https://garebear99.github.io/itch-seo/items/demon-sprite-sheet-generator.html
   itch.io: https://garebearproductionz.itch.io/demon-sprite-sheet-generator
   Price: $2.49 CAD
@@ -96,7 +96,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/sprite-color-effect-mutator-engine
   Price: $8.25 CAD
 
-- Action Command Charge Formula: Action Command Charge Formula
+- Action Command Charge Formula: A real-time radial timing engine for RPG timed hits, parries - six elemental paths, hit the window, export spritesheets.
   Page: https://garebear99.github.io/itch-seo/items/action-command-charge-formula.html
   itch.io: https://garebearproductionz.itch.io/action-command-charge-formula
   Price: $0.75 CAD
@@ -106,37 +106,37 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/alien-invasion-live-animated-backdrop-layers
   Price: $3.50 CAD
 
-- Animated VFX UI Pack - 80+ Assets: Animated VFX UI Pack - 80+ Assets
+- Animated VFX UI Pack - 80+ Assets: 80 animated UI effects, 4-theme, Spectral, Blood, Bone, Holy Void, panels, buttons, bars, overlays, offline Asset Studio
   Page: https://garebear99.github.io/itch-seo/items/animated-vfx-ui-pack-80-assets.html
   itch.io: https://garebearproductionz.itch.io/animated-vfx-ui-pack-80-assets
-  Price: $4.87 CAD
+  Price: $3.75 CAD
 
 - Any Image to Pixel SVG Converter (Only 1 FREE): Any Image to Pixel SVG Converter
   Page: https://garebear99.github.io/itch-seo/items/any-image-to-pixel-svg-converter.html
   itch.io: https://garebearproductionz.itch.io/any-image-to-pixel-svg-converter
   Price: Free
 
-- Arcanum I - Part 1— Animated Pixel Spell Effects (75 effects, 1,200 frames): Arcanum I - Part 1— Animated Pixel Spell Effects (75 effects, 1,200 frames)
+- Arcanum I - Part 1— Animated Pixel Spell Effects (75 effects, 1,200 frames): 75 animated spell effects: 25 archetypes through fire, ice, arcane, 1,200 frames - each element its own physics profile.
   Page: https://garebear99.github.io/itch-seo/items/arcanum-i-part-1-animated-pixel-spell-effects-75-effects-1200-frames.html
   itch.io: https://garebearproductionz.itch.io/arcanum-i-part-1-animated-pixel-spell-effects-75-effects-1200-frames
   Price: $1.78 CAD
 
-- Arcanum I - Part 2 — Animated Pixel Spell Abilities (23 spells, 752 frames): Arcanum I - Part 2 — Animated Pixel Spell Abilities (23 spells, 752 frames)
+- Arcanum I - Part 2 — Animated Pixel Spell Abilities (23 spells, 752 frames): 23 spell abilities, 752 frames - 13 base spells, 5 Mythos one-shots, 5 looping channeled spells, Python generators.
   Page: https://garebear99.github.io/itch-seo/items/arcanum-i-part-2-animated-pixel-spell-abilities-23-spells-752-frames.html
   itch.io: https://garebearproductionz.itch.io/arcanum-i-part-2-animated-pixel-spell-abilities-23-spells-752-frames
   Price: $2.88 CAD
 
-- Black & Red Dice SVG & PNG 2D-3D Export Engine: Black & Red Dice SVG & PNG 2D-3D Export Engine
+- Black & Red Dice SVG & PNG 2D-3D Export Engine: A D6 dice engine with correct opposite pairs, 24 valid cube orientations, random roll, force top face, SVG/PNG export.
   Page: https://garebear99.github.io/itch-seo/items/black-red-dice-svg-png-export-engine.html
   itch.io: https://garebearproductionz.itch.io/black-red-dice-svg-png-export-engine
   Price: $3.50 CAD
 
-- Blood Bound by Pixel Scythe & SVG (FREE): Blood Bound Pixel Scythe
+- Blood Bound by Pixel Scythe & SVG (FREE): A free blood-bound pixel scythe in SVG and PNG — a cursed reaper weapon for dark fantasy characters and bosses.
   Page: https://garebear99.github.io/itch-seo/items/blood-bound-scythe-svg-free.html
   itch.io: https://garebearproductionz.itch.io/blood-bound-scythe-svg-free
   Price: Free
 
-- Cash Cloud Sprite Pack (FREE): Cash Cloud Sprite Pack (FREE)
+- Cash Cloud Sprite Pack (FREE): A clean vector currency pack for game UI: symbol, sigil, pulse, rain, loader spinner, animated loops. SVG and PNG.
   Page: https://garebear99.github.io/itch-seo/items/cash-cloud.html
   itch.io: https://garebearproductionz.itch.io/cash-cloud
   Price: Free
@@ -151,22 +151,22 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/ichor-glyph
   Price: $1.13 CAD
 
-- Cloudworks - Pixel Cloud & Parallax Toolkit + Trains!: Cloudworks - Pixel Cloud & Parallax Toolkit + Trains!
+- Cloudworks — Pixel Cloud & Parallax Toolkit + Trains: A procedural pixel-sky engine: seeded clouds, parallax horizons, a train on the trestle — export the whole scene.
   Page: https://garebear99.github.io/itch-seo/items/cloudworks-pixel-cloud-parallax-toolkit-trains.html
   itch.io: https://garebearproductionz.itch.io/cloudworks-pixel-cloud-parallax-toolkit-trains
   Price: $6.99 CAD
 
-- Coin Physics & Triple Buffer Atomic Swap Pack & Engine Kit: Coin Physics & Triple Buffer Atomic Swap Pack & Engine Kit
+- Coin Physics & Triple Buffer Atomic Swap Pack & Engine Kit: A pixel coin burst pack and live collectible engine: 5 coin types, burst physics, spin, bounce, sparkle, pickup magnet.
   Page: https://garebear99.github.io/itch-seo/items/coin-physics-pack-engine-kit-triple-buffer-atomic-swap-hash-receipts.html
   itch.io: https://garebearproductionz.itch.io/coin-physics-pack-engine-kit-triple-buffer-atomic-swap-hash-receipts
   Price: $11.24 CAD
 
-- COSMIC DISRUPTION – Free Fast-Paced Game Music Pack: COSMIC DISRUPTION – Free Fast-Paced Game Music Pack
+- COSMIC DISRUPTION – Free Fast-Paced Game Music Pack: 7 electronic tracks for action, sci-fi games - combat, boss fights, chases, drone swarms. Free for commercial use.
   Page: https://garebear99.github.io/itch-seo/items/cosmic-disruption-free-fast-paced-game-music-pack.html
   itch.io: https://garebearproductionz.itch.io/cosmic-disruption-free-fast-paced-game-music-pack
   Price: Free
 
-- Dark Fantasy Dungeon Builder - Free Four-Realm Tileset: Dark Fantasy Dungeon Builder - Free Four-Realm Tileset
+- Dark Fantasy Dungeon Builder - Free Four-Realm Tileset: Build dungeons across 4 realms: 1,056 modular tiles, 80 objects, 40 premade rooms, 12 demo maps, Tiled files, painter.
   Page: https://garebear99.github.io/itch-seo/items/dark-fantasy-dungeon-builder-free-four-realm-tileset.html
   itch.io: https://garebearproductionz.itch.io/dark-fantasy-dungeon-builder-free-four-realm-tileset
   Price: Free
@@ -176,27 +176,27 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/dark-fantasy-modular-gui-pack-704-ui-assets-160-icons
   Price: $7.15 CAD
 
-- DIVINITY — the Imperilator arms and the seven sins (FREE): DIVINITY — the Imperilator arms and the seven sins (FREE)
+- DIVINITY — the Imperilator arms and the seven sins (FREE): 13 animated holy weapons, 416 frames: 5 holy arms, their infernal counterpart, one weapon per deadly sin. 96px, looping.
   Page: https://garebear99.github.io/itch-seo/items/divinity-the-imperilator-arms-and-the-seven-sins.html
   itch.io: https://garebearproductionz.itch.io/divinity-the-imperilator-arms-and-the-seven-sins
   Price: Free
 
-- Doom Style Ray Cast Engine & Asset Pack: Doom Style Ray Cast Engine & Asset Pack
+- Doom Style Ray Cast Engine & Asset Pack: VOIDWALK: a from-scratch Doom-style raycaster in vanilla JS, 2D canvas, DDA walls, floorcasting, procedural textures.
   Page: https://garebear99.github.io/itch-seo/items/doom-style-ray-trace-engine-asset-pack.html
   itch.io: https://garebearproductionz.itch.io/doom-style-ray-trace-engine-asset-pack
   Price: $2.50 CAD
 
-- Elemental Wisp Sprite Pack: Elemental Wisp Sprite Pack
+- Elemental Wisp Sprite Pack: 8 elemental wisps, Graveglow, Nightveil, Bloodwick and more - 96 animation sets, 832 frames, 48 abilities, Wisp Studio.
   Page: https://garebear99.github.io/itch-seo/items/elemental-wisp-sprite-pack.html
   itch.io: https://garebearproductionz.itch.io/elemental-wisp-sprite-pack
   Price: $2.16 CAD
 
-- ENCHANTED SPRITE VFX ENGINE: HOLOGRAPHIC
+- ENCHANTED SPRITE VFX ENGINE: Drop a sprite in, make it shiny, export it - 12 elements, 10 rarity tiers, PNG, GIF, sprite sheets, ZIPs, no install.
   Page: https://garebear99.github.io/itch-seo/items/enchanted-sprite-vfx-engine.html
   itch.io: https://garebearproductionz.itch.io/enchanted-sprite-vfx-engine
   Price: $8.45 CAD
 
-- Evil Eye Four Pack & Live SVG Animations: Evil Eye Four Pack & Live SVG Animations
+- Evil Eye Four Pack & Live SVG Animations: Four evil eyes with live SVG animations — warding, watchful icons for menus, HUDs, ritual scenes, dark fantasy games.
   Page: https://garebear99.github.io/itch-seo/items/evil-eye-four-pack.html
   itch.io: https://garebearproductionz.itch.io/evil-eye-four-pack
   Price: $0.50 CAD
@@ -211,7 +211,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/free-haunter-sprites
   Price: Free
 
-- Free Pixel SVG Portrait Asset Builder Kit (Generator & Pack): Free Pixel SVG Portrait Asset Builder Kit (Generator & Pack)
+- Free Pixel SVG Portrait Asset Builder Kit (Generator & Pack): A free pixel portrait builder kit and generator — build SVG pixel portraits for characters, NPCs and dialogue screens.
   Page: https://garebear99.github.io/itch-seo/items/cool-pixel-portraits.html
   itch.io: https://garebearproductionz.itch.io/cool-pixel-portraits
   Price: Free
@@ -221,12 +221,12 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/freeeq8-most-advanced-free-eq-opensource
   Price: Free
 
-- Frostbound Arena - Winter Pixel Arena Kit (Tileset, Heroes, Enemies, Boss, UI, SFX + Music): Winter Giveaway!
+- Frostbound Arena - Winter Pixel Arena Kit (Tileset, Heroes, Enemies, Boss, UI, SFX + Music): Winter arena kit: 16×16 autotile tileset, parallax, 3 heroes, 5 enemies, Frost Giant boss, 74 SFX, 5 music tracks
   Page: https://garebear99.github.io/itch-seo/items/frostbound-arena-winter-pixel-arena-kit-tileset-heroes-enemies-boss-ui-sfx-music.html
   itch.io: https://garebearproductionz.itch.io/frostbound-arena-winter-pixel-arena-kit-tileset-heroes-enemies-boss-ui-sfx-music
   Price: Free
 
-- Gossamer — 289 Pixel Cobwebs, Corner Webs & Screen Overlays: Spider Webs
+- Gossamer — 289 Pixel Cobwebs, Corner Webs & Screen Overlays: 289 pixel cobwebs, 5 thread colours, corner webs, membrane webs, orbs, strands, 9 full-screen overlays, Python included
   Page: https://garebear99.github.io/itch-seo/items/gossamer-pixel-cobwebs-corner-webs-screen-overlays.html
   itch.io: https://garebearproductionz.itch.io/gossamer-pixel-cobwebs-corner-webs-screen-overlays
   Price: $1.12 CAD
@@ -236,12 +236,12 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/gw3-style-2d-projected-3d-grid-world-engine
   Price: Free
 
-- Halloween Asset & Audio SFX Pack (FREE): Halloween Asset & Audio SFX Pack (FREE)
+- Halloween Asset & Audio SFX Pack (FREE): A ready-to-use Halloween kit: 12 pixel sprites, 14 SFX, 2 seamless music loops - pumpkin, ghost, skull, cauldron. Free.
   Page: https://garebear99.github.io/itch-seo/items/halloween-asset-audio-sfx-pack-free.html
   itch.io: https://garebearproductionz.itch.io/halloween-asset-audio-sfx-pack-free
   Price: Free
 
-- HD Cinematic Audio SFX Pack (FREE): HD Cinematic Audio SFX Pack (FREE)
+- HD Cinematic Audio SFX Pack (FREE): Free cinematic sound effects — clank, coins and metal, ready to drop into trailers, cutscenes and game moments.
   Page: https://garebear99.github.io/itch-seo/items/hd-cinematic-audio-sfx-pack-free.html
   itch.io: https://garebearproductionz.itch.io/hd-cinematic-audio-sfx-pack-free
   Price: Free
@@ -261,27 +261,27 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/hemorrhage-blood-fx
   Price: $0.97 CAD
 
-- HOLO SPRITE OVERLAY EXPORT ENGINE: HOLO SPRITE OVERLAY EXPORT ENGINE
+- HOLO SPRITE OVERLAY EXPORT ENGINE: Add holographic foil shine to any sprite, alpha-masked, shine only lands on your art, PNG, GIF, sprite sheet, ZIP.
   Page: https://garebear99.github.io/itch-seo/items/holo-sprite-overlay-engine.html
   itch.io: https://garebearproductionz.itch.io/holo-sprite-overlay-engine
   Price: $8.25 CAD
 
-- Holy Live FX SVG & PNG Icon 8-Set Pipeline Kit: Holy Live FX SVG & PNG Icon 8-Set Pipeline Kit
+- Holy Live FX SVG & PNG Icon 8-Set Pipeline Kit: 8 holy SVG and PNG icons for instant pipeline use - crisp from 16×16 HUD icons to 4K menu art, blessed, celestial UI.
   Page: https://garebear99.github.io/itch-seo/items/holy-svg-png-icon-set.html
   itch.io: https://garebearproductionz.itch.io/holy-svg-png-icon-set
   Price: $2.00 CAD
 
-- Impact FX - Christmas Edition | Pixel Winter VFX + SFX Pack: Impact FX: Christmas Edition
+- Impact FX - Christmas Edition | Pixel Winter VFX + SFX Pack: 10 animated winter VFX in 4 colourways, shattering ornaments, blooming snowflakes, crashing icicles, 36 SFX, 336 frames
   Page: https://garebear99.github.io/itch-seo/items/impact-fx-christmas-edition-pixel-winter-vfx-sfx-pack.html
   itch.io: https://garebearproductionz.itch.io/impact-fx-christmas-edition-pixel-winter-vfx-sfx-pack
   Price: $0.96 CAD
 
-- Impact FX - Halloween Edition | Pixel Spooky VFX + SFX Pack: Impact FX: Halloween Series
+- Impact FX - Halloween Edition | Pixel Spooky VFX + SFX Pack: 10 spooky animated VFX in 4 colourways, exploding pumpkins, drifting ghosts, bat swarms, lightning, 36 SFX, 292 frames.
   Page: https://garebear99.github.io/itch-seo/items/impact-fx-halloween-edition-pixel-spooky-vfx-sfx-pack.html
   itch.io: https://garebearproductionz.itch.io/impact-fx-halloween-edition-pixel-spooky-vfx-sfx-pack
   Price: $1.62 CAD
 
-- IMPACT FX - Pixel Combat VFX + SFX Pack: IMPACT FX - Pixel Combat VFX + SFX Pack
+- IMPACT FX - Pixel Combat VFX + SFX Pack: 13 animated combat VFX in 4 palettes - slashes, hit sparks, muzzle flashes, explosions, 33 SFX, 364 frames, atlas.
   Page: https://garebear99.github.io/itch-seo/items/impact-fx-pixel-combat-vfx-sfx-pack.html
   itch.io: https://garebearproductionz.itch.io/impact-fx-pixel-combat-vfx-sfx-pack
   Price: $0.78 CAD
@@ -291,7 +291,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/impact-fx-advanced-12-hero-pixel-vfx-meteor-black-hole-portal-tornado-more
   Price: $3.89 CAD
 
-- Impact FX Lite - Free Pixel VFX + SFX Sampler: Impact FX Lite - Free Pixel VFX + SFX Sampler
+- Impact FX Lite - Free Pixel VFX + SFX Sampler: Try before you buy: 3 animated pixel VFX, 3 matching SFX - Explosion, Heavy Slash, Pumpkin Burst. 64x64 PNG strips, GIFs
   Page: https://garebear99.github.io/itch-seo/items/impact-fx-lite-free-pixel-vfx-sfx-sampler.html
   itch.io: https://garebearproductionz.itch.io/impact-fx-lite-free-pixel-vfx-sfx-sampler
   Price: Free
@@ -301,7 +301,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/infernal-archetypes
   Price: Free
 
-- Japanese Dojo Tileset (FREE): Japanese Dojo Tileset (FREE)
+- Japanese Dojo Tileset (FREE): A top-down 16x16 dojo tileset, 4 colours: tatami, shoji walls, doors, torii, sword rack, armour stand, walking student.
   Page: https://garebear99.github.io/itch-seo/items/japanese-dojo-tileset-free.html
   itch.io: https://garebearproductionz.itch.io/japanese-dojo-tileset-free
   Price: Free
@@ -321,12 +321,12 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/svg-icon-starter-kit-pipeline
   Price: $0.75 CAD
 
-- MODE-7 FLOORCAST ENGINE: SNES BROWSER FLOORCAST ENGINE
+- MODE-7 FLOORCAST ENGINE: An SNES-style browser floorcast engine - Mode 7 floors for retro racers, overworlds, running in the browser, no install.
   Page: https://garebear99.github.io/itch-seo/items/mode-7.html
   itch.io: https://garebearproductionz.itch.io/mode-7
   Price: $5.50 CAD
 
-- Multi Layered Epic Free SVG Backdrop Static Scene (Free): Multi Layered Epic Free SVG Backdrop Static Scene (Free)
+- Multi Layered Epic Free SVG Backdrop Static Scene (Free): A free multi-layered SVG backdrop scene — layered depth for your game's background, ready to drop in and build on.
   Page: https://garebear99.github.io/itch-seo/items/multi-layered-epic-free-svg-backdrop-static-scene.html
   itch.io: https://garebearproductionz.itch.io/multi-layered-epic-free-svg-backdrop-static-scene
   Price: Free
@@ -336,7 +336,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/bundle
   Price: $12.00 CAD
 
-- Necrommancers Sacred Geometry Audio ToolKit: Necrommancers Sacred Geometry Audio ToolKit
+- Necrommancers Sacred Geometry Audio ToolKit: A standalone dark synth generating ritual loops from oscillators, filtered noise, procedural reverb, 13 patches, WAV.
   Page: https://garebear99.github.io/itch-seo/items/necrommancers-audio-toolkit.html
   itch.io: https://garebearproductionz.itch.io/necrommancers-audio-toolkit
   Price: $3.33 CAD
@@ -346,7 +346,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/neolution-grid-engine
   Price: $3.75 CAD
 
-- NPC Theme of Sacrifice: NPC Theme of Sacrifice
+- NPC Theme of Sacrifice: A sacrificial effigy, reactive crow, accordion demon boss, purple zombie limbs, altar tiers 1 and 2 - dark NPC art.
   Page: https://garebear99.github.io/itch-seo/items/npc-theme-of-sacrifice.html
   itch.io: https://garebearproductionz.itch.io/npc-theme-of-sacrifice
   Price: $1.87 CAD
@@ -354,14 +354,14 @@ Profile: https://garebearproductionz.itch.io/
 - Orc Bungalo - Mystic Meadow Arena Kit: A mystic meadow arena kit: orc king on his throne, bonus blimp fleet, pixie and orc crowds, 77 tiles, full UI kit.
   Page: https://garebear99.github.io/itch-seo/items/orc-bungalo-mystic-meadow-arena-kit.html
   itch.io: https://garebearproductionz.itch.io/orc-bungalo-mystic-meadow-arena-kit
-  Price: $5.50 CAD
+  Price: $2.75 CAD
 
-- Orerry Solar System Pack - Live VFX Animations + Scale Accuracy & Tilt: Orerry Solar System Pack - Live VFX Animations + Scale Accuracy & Tilt
+- Orerry Solar System Pack - Live VFX Animations + Scale Accuracy & Tilt: The solar system at true relative scale and tilt - Earth done properly - live VFX animations for space scenes, skyboxes
   Page: https://garebear99.github.io/itch-seo/items/orerry-solar-system-pack.html
   itch.io: https://garebearproductionz.itch.io/orerry-solar-system-pack
   Price: Free
 
-- Pixel Abyssal Teleportation Device: Pixel Abyssal Teleportation Device
+- Pixel Abyssal Teleportation Device: An abyssal teleportation device - pedestal sprite in PNG and SVG - for portals, shrines, dark ritual scenes in your game
   Page: https://garebear99.github.io/itch-seo/items/pixel-abyssal-teleporter.html
   itch.io: https://garebearproductionz.itch.io/pixel-abyssal-teleporter
   Price: $0.75 CAD
@@ -376,12 +376,12 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/pixel-velocity-weight-physics-quake-hammer
   Price: Free
 
-- Pixel MegaBot Rigging Concept + SVG (Free): Megabot Rigging Pixel Art
+- Pixel MegaBot Rigging Concept + SVG (Free): A free MegaBot rigging concept in pixel art plus SVG - a giant robot reference to build your own rigged character from.
   Page: https://garebear99.github.io/itch-seo/items/megabot-rigging-concept-free.html
   itch.io: https://garebearproductionz.itch.io/megabot-rigging-concept-free
   Price: Free
 
-- Pride Crown Concept Sprite Art (Free): 7 Deadly Sins Pride Crown
+- Pride Crown Concept Sprite Art (Free): A free 7 Deadly Sins pride crown — concept sprite art for a sin-themed boss, character or relic in your game.
   Page: https://garebear99.github.io/itch-seo/items/pride-crown-concept-art.html
   itch.io: https://garebearproductionz.itch.io/pride-crown-concept-art
   Price: Free
@@ -396,7 +396,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/professional-occult-covenant-icon-kit
   Price: $3.33 CAD
 
-- Pyre Fire Pack Generator Tools: Pyre Fire Pack Generator Tools
+- Pyre Fire Pack Generator Tools: Pyre fire tools: build your own fires, bonus ember bowl sets lit and unlit, sample random generator, dark fantasy scenes
   Page: https://garebear99.github.io/itch-seo/items/pyre-fire-pack-generator-tools.html
   itch.io: https://garebearproductionz.itch.io/pyre-fire-pack-generator-tools
   Price: $3.25 CAD
@@ -406,27 +406,27 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/pyromancy-chibi-pack
   Price: Free
 
-- Reward Pocket Generator Formula: Reward Pocket Generator Formula
+- Reward Pocket Generator Formula: Type a symbol, pick a glow colour, export a PNG - glowing runes for loot drops, spell sockets, terminals, RPG inventory.
   Page: https://garebear99.github.io/itch-seo/items/reward-pocket-generator-formula.html
   itch.io: https://garebearproductionz.itch.io/reward-pocket-generator-formula
   Price: $0.50 CAD
 
-- Rift Edge - Laser Sword & Glow Slash Pack: Rift Edge - Laser Sword & Glow Slash Pack
+- Rift Edge - Laser Sword & Glow Slash Pack: Ten beam swords, twenty-four cuts with burning vanta rims - each sword as still, strip, 12-frame ignition, generator.
   Page: https://garebear99.github.io/itch-seo/items/rift-edge-laser-sword-glow-slash-pack.html
   itch.io: https://garebearproductionz.itch.io/rift-edge-laser-sword-glow-slash-pack
   Price: $0.80 CAD
 
-- Riftedge - 1001 Slash FX Pack: 1001 Slash VFX Animations
+- Riftedge - 1001 Slash FX Pack: The full Riftedge set: 1,001 slash VFX animations for combat, dashes, finishers - free Slash FX 101 is just a tenth.
   Page: https://garebear99.github.io/itch-seo/items/riftedge-1001-slash-fx.html
   itch.io: https://garebearproductionz.itch.io/riftedge-1001-slash-fx
-  Price: $2.22 CAD
+  Price: Free
 
-- Scarlet Witch DarkHold Sprite (FREE): Scarlet Witch DarkHold Sprite (FREE)
+- Scarlet Witch DarkHold Sprite (FREE): A free sprite of the Darkhold, forbidden grimoire from the Book of the Damned — a cursed relic for dark fantasy games.
   Page: https://garebear99.github.io/itch-seo/items/scarlette-witchs-darkhold-sprite-free.html
   itch.io: https://garebearproductionz.itch.io/scarlette-witchs-darkhold-sprite-free
   Price: Free
 
-- Shadow Fighters — Dragon Knight, Iron Sentinel, Xeno Grunt (+ Raptor): Shadow Fighters — Dragon Knight, Iron Sentinel, Xeno Grunt (+ Raptor)
+- Shadow Fighters — Dragon Knight, Iron Sentinel, Xeno Grunt (+ Raptor): Dragon Knight, Iron Sentinel, Xeno Grunt, raptor companion - 65 animations, 290 frames, effects kept lit, bodies dark.
   Page: https://garebear99.github.io/itch-seo/items/shadow-fighters-dragon-knight-iron-sentinel-xeno-grunt-raptor.html
   itch.io: https://garebearproductionz.itch.io/shadow-fighters-dragon-knight-iron-sentinel-xeno-grunt-raptor
   Price: $3.07 CAD
@@ -436,7 +436,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/shadow-pixel-character-pack-copies-any-sprite
   Price: $9.75 CAD
 
-- Shadow Trooper Silhouette (FREE): Yurei: Shadow Trooper
+- Shadow Trooper Silhouette (FREE): A silhouette Shadow Trooper: 6 animations, 41 frames, blacked to silhouette, core, beam, bolts kept lit. Drop-in enemy.
   Page: https://garebear99.github.io/itch-seo/items/shadow-trooper-silhouette-free.html
   itch.io: https://garebearproductionz.itch.io/shadow-trooper-silhouette-free
   Price: Free
@@ -446,27 +446,27 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/shoji-dojo
   Price: $3.60 CAD
 
-- Skully Asset Pack & Lightweight Canvas Engine Demo: Survival
+- Skully Asset Pack & Lightweight Canvas Engine Demo: Modular skeleton asset layers, zero-dependency vanilla JS canvas engine demo - click Run Game, assets run in browser. Survival
   Page: https://garebear99.github.io/itch-seo/items/skully-asset-pack-lightweight-canvas-engine-demo.html
   itch.io: https://garebearproductionz.itch.io/skully-asset-pack-lightweight-canvas-engine-demo
   Price: Free
 
-- SLAGWORKS: CinderHaul - 6 Map Animated Tileset 1,910 Sprites: SLAGWORKS: CinderHaul - 6 Map Animated Tileset 1,910 Sprites
+- SLAGWORKS: CinderHaul - 6 Map Animated Tileset 1,910 Sprites: Six 32x32 industrial tilesets - magma, molten steel, coolant, sewage, runoff, cold storage - 1,910 sprites, 34 palettes.
   Page: https://garebear99.github.io/itch-seo/items/slagworks-cinderhaul-6-map-animated-tileset.html
   itch.io: https://garebearproductionz.itch.io/slagworks-cinderhaul-6-map-animated-tileset
   Price: $2.22 CAD
 
-- SLAGWORKS: Spectral Carnage Sewer Deck (FREE): SLAGWORKS: Spectral Carnage Sewer Deck (FREE)
+- SLAGWORKS: Spectral Carnage Sewer Deck (FREE): A 32x32 top-down sewer, industrial tileset: brickwork, sludge channels, gas vents, plumbing props, 4 animated containers
   Page: https://garebear99.github.io/itch-seo/items/spectral-carnage-sewers-free-tileset-map.html
   itch.io: https://garebearproductionz.itch.io/spectral-carnage-sewers-free-tileset-map
   Price: Free
 
-- Slash FX 101 (FREE): 101 Static Slash FX FREE
+- Slash FX 101 (FREE): 101 free slash effects - a tenth of 1001. 6 forms, 10 beams, 5 severities, 96px grid, each cut recorded from its seed
   Page: https://garebear99.github.io/itch-seo/items/slash-fx-101.html
   itch.io: https://garebearproductionz.itch.io/slash-fx-101
   Price: Free
 
-- Spectral Icon SVG Pipeline Kit: Spectral Icon SVG Pipeline Kit
+- Spectral Icon SVG Pipeline Kit: 8 spectral SVG and PNG icons for instant pipeline use - crisp from 16×16 HUD icons to 4K menu art, ghost, realm UI.
   Page: https://garebear99.github.io/itch-seo/items/spectral-icon-svg-pipeline-kit.html
   itch.io: https://garebearproductionz.itch.io/spectral-icon-svg-pipeline-kit
   Price: $1.66 CAD
@@ -486,12 +486,12 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/subwoofer-crown-bass-pack
   Price: Free
 
-- SUGARFALL — the pink party pack (FREE): SUGARFALL — the pink party pack (FREE)
+- SUGARFALL — the pink party pack (FREE): 12 pink party weapons, 5 full-screen overlays in hot pink - cupcake bombs, sprinkle daggers, heart veils, meltdowns.
   Page: https://garebear99.github.io/itch-seo/items/sugarfall-the-pink-party-pack-free.html
   itch.io: https://garebearproductionz.itch.io/sugarfall-the-pink-party-pack-free
   Price: Free
 
-- Summoner's Delight: 4 GIF Ready Assets
+- Summoner's Delight: A dark ritual art kit for cult sims, tycoons, spooky roguelikes - character sheets, progression loops, ritual geometry.
   Page: https://garebear99.github.io/itch-seo/items/summoners-delights.html
   itch.io: https://garebearproductionz.itch.io/summoners-delights
   Price: $0.75 CAD
@@ -531,17 +531,17 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/thor-mjolnir-svg-physics-engine
   Price: $1.00 CAD
 
-- Transparent D20 Dice Color 3D OBJ Pack: Transparent D20 Dice Color 3D OBJ Pack
+- Transparent D20 Dice Color 3D OBJ Pack: A 3D transparent D20 with glowing numbers, glass shading, hue-shifted colours, spin, roll, recolour, OBJ, PNG export.
   Page: https://garebear99.github.io/itch-seo/items/d20-dice-color-3d-obj-pack.html
   itch.io: https://garebearproductionz.itch.io/d20-dice-color-3d-obj-pack
   Price: $9.75 CAD
 
-- VFX Test Rooms & Elemental Frequency Arena Engines (FREE 2D-3D): VFX Test Rooms & Elemental Frequency Arena Engines (FREE 2D-3D)
+- VFX Test Rooms & Elemental Frequency Arena Engines (FREE 2D-3D): Free 2D/3D VFX test rooms, elemental frequency arena engines - VFX lab, Frequency Arena, QuakeHammer physics to play in.
   Page: https://garebear99.github.io/itch-seo/items/vfx-test-room-elemental-frequency-arena-engine.html
   itch.io: https://garebearproductionz.itch.io/vfx-test-room-elemental-frequency-arena-engine
   Price: Free
 
-- Victory Wraith (FREE): Victory Wraith (FREE)
+- Victory Wraith (FREE): A free wraith sprite to haunt your game — a spectral enemy draft, ready to drop into a dark fantasy or horror scene.
   Page: https://garebear99.github.io/itch-seo/items/victory-wraith-free.html
   itch.io: https://garebearproductionz.itch.io/victory-wraith-free
   Price: Free
@@ -551,7 +551,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/violin-synth-sample-kit
   Price: $2.50 CAD
 
-- Wraith Necropolis Gate Backdrop & Layers FREE: Wraith Necropolis Gate Backdrop & Layers FREE
+- Wraith Necropolis Gate Backdrop & Layers FREE: A free wraith necropolis gate backdrop, separated layers — 1280×720 PNG, export ZIP, SkyLayers for your dark scene.
   Page: https://garebear99.github.io/itch-seo/items/wraith-necropolis-gate-backdrop.html
   itch.io: https://garebearproductionz.itch.io/wraith-necropolis-gate-backdrop
   Price: Free
