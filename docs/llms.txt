@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (112 items).
+Index of every public GareBearProductionz listing on itch.io (113 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -125,6 +125,11 @@ Profile: https://garebearproductionz.itch.io/
   Page: https://garebear99.github.io/itch-seo/items/arcanum-i-part-2-animated-pixel-spell-abilities-23-spells-752-frames.html
   itch.io: https://garebearproductionz.itch.io/arcanum-i-part-2-animated-pixel-spell-abilities-23-spells-752-frames
   Price: $2.88 CAD
+
+- Avatar Generator — 2.4 Billion Succubus Combinations: Build your succubus. 2,419,200,000 combinations across 13 groups — scales, hair, horns, wings, eyes, outfits, tails. Play in browser
+  Page: https://garebear99.github.io/itch-seo/items/avatar-generator.html
+  itch.io: https://garebearproductionz.itch.io/avatar-generator
+  Price: Free
 
 - Black & Red Dice SVG & PNG 2D-3D Export Engine: A D6 dice engine with correct opposite pairs, 24 valid cube orientations, random roll, force top face, SVG/PNG export.
   Page: https://garebear99.github.io/itch-seo/items/black-red-dice-svg-png-export-engine.html
