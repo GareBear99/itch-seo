@@ -6,7 +6,7 @@ Profile: https://garebearproductionz.itch.io/
 
 ## Items
 
-- (FREE) Pixel Paladin Hammer + Chibi: (FREE) Pixel Paladin Hammer + Chibi
+- (FREE) Pixel Paladin Hammer + Chibi: A free pixel paladin hammer, plus a chibi version — a holy relic weapon for knights, clerics and boss fights.
   Page: https://garebear99.github.io/itch-seo/items/free-pixel-paladin-hammer-chibi.html
   itch.io: https://garebearproductionz.itch.io/free-pixel-paladin-hammer-chibi
   Price: Free
@@ -41,7 +41,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/2d-chibi-pixel-elemental-rigging-concept
   Price: Free
 
-- 2D Sunset Generator & Formula + Sprites (FREE): 2D Sunset Generator & Formula + Sprites (FREE)
+- 2D Sunset Generator & Formula + Sprites (FREE): A free zero-dependency procedural engine for sunsets, solar flares, hazards, fireballs - cooked from raw string seeds.
   Page: https://garebear99.github.io/itch-seo/items/2d-sunset-generation-formula.html
   itch.io: https://garebearproductionz.itch.io/2d-sunset-generation-formula
   Price: Free
@@ -206,7 +206,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/fireball-generator-formula
   Price: $7.50 CAD
 
-- FREE Haunter Sprites: FREE Haunter Sprites
+- FREE Haunter Sprites: A free modular haunter boss, enemy pack - isolated head, expressions, hands, limbs float, rotate, lag for uncanny ghost
   Page: https://garebear99.github.io/itch-seo/items/free-haunter-sprites.html
   itch.io: https://garebearproductionz.itch.io/free-haunter-sprites
   Price: Free
@@ -231,7 +231,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/gossamer-pixel-cobwebs-corner-webs-screen-overlays
   Price: $1.12 CAD
 
-- GW3 Style 2D Projected 3D Grid World Synth Engine (Free): Proto Synth Grid Engine
+- GW3 Style 2D Projected 3D Grid World Synth Engine (Free): A free deterministic 2D world engine, projected-3D grid view - blueprint-driven worlds, geometry and logic share core.
   Page: https://garebear99.github.io/itch-seo/items/gw3-style-2d-projected-3d-grid-world-engine.html
   itch.io: https://garebearproductionz.itch.io/gw3-style-2d-projected-3d-grid-world-engine
   Price: Free
@@ -296,7 +296,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/impact-fx-lite-free-pixel-vfx-sfx-sampler
   Price: Free
 
-- Infernal Archetype Sprites (FREE): Infernal Archetype Sprites (FREE)
+- Infernal Archetype Sprites (FREE): Free infernal archetype sprites, plus three confessor sprites — demonic characters for hellish scenes, boss fights.
   Page: https://garebear99.github.io/itch-seo/items/infernal-archetypes.html
   itch.io: https://garebearproductionz.itch.io/infernal-archetypes
   Price: Free
@@ -366,7 +366,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/pixel-abyssal-teleporter
   Price: $0.75 CAD
 
-- Pixel Blood & Bone Demon Scythe + SVG (FREE): FREE Blood Pixel Scythe
+- Pixel Blood & Bone Demon Scythe + SVG (FREE): A free blood-and-bone demon scythe in PNG and SVG - a brutal demonic weapon for bosses, enemies and dark fantasy heroes
   Page: https://garebear99.github.io/itch-seo/items/blood-bone-scythe.html
   itch.io: https://garebearproductionz.itch.io/blood-bone-scythe
   Price: Free
@@ -401,7 +401,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/pyre-fire-pack-generator-tools
   Price: $3.25 CAD
 
-- Pyro-Maniac Chibi Sprite Pack (FREE): Pyro-Maniac Chibi Sprite Pack (FREE)
+- Pyro-Maniac Chibi Sprite Pack (FREE): Free chibi pyro sprites - PyroImp, PyroManiac, BloodLust Phase 1 and more, ready to burn through your next fire game.
   Page: https://garebear99.github.io/itch-seo/items/pyromancy-chibi-pack.html
   itch.io: https://garebearproductionz.itch.io/pyromancy-chibi-pack
   Price: Free
