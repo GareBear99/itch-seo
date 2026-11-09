@@ -34,7 +34,4 @@ research changes, not daily.
 
 ## What is live today
 
-Only Bluesky is posting (poster on the Mac, account `@tizwildin.bsky.social`).
-Threads posts through `threads-cli`. Everything else in the research needs
-something from Gary (usually one key or one account) or is closed — see the
-status table in `itch-api-promotion-research.md`.
+Bluesky is posting (poster on the Mac, account `@tizwildin.bsky.social`), Threads posts through `threads-cli`, Nostr posts 2–3/day, and Hive is live as of 2026-11-09 (`@tizwildin`, daily 10:42 AM + 4:42 PM PST). Instagram is linked as `garebearproductionz` (no poster yet). Everything else in the research needs something from Gary (usually one key or one account) or is closed — see the status table in `itch-api-promotion-research.md`.
