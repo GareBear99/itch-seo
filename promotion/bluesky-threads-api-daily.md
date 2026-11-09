@@ -65,3 +65,12 @@ at `docs/api-routes-daily.md` for promotional continuity (same content, no secre
 - **Paying assets promoted:** The King's Gambit ($2.25 CAD — Threads + Nostr), Cloudworks ($6.99 CAD — Threads + Nostr). A Devil's Game ($2.10 CAD) did not go out (held by spacing). Bluesky promoted nothing today.
 - **Acquired today:** New FREE itch listing "Avatar Generator — 2.4 Billion Succubus Combinations" (https://garebearproductionz.itch.io/avatar-generator), first seen in itch-seo autopull 85d0fd7 (11:45 PST); inventory 112 → 113 items. No new paid price points today (autopull only refreshed lastSeen); no sales verified; no sales-audit work today. Code landed (not itch): Lucid Google Drive OAuth + segment voice mp3s pushed to GitHub master (b525729); Lucid text-spacing pass committed locally as bundle bb88d35, not yet pushed (Mac offline).
 - **New routes used/found:** none today.
+
+## 2026-11-09 (Mon)
+
+- **Bluesky posts:** `09-arcanum-ii-part2.json` — Arcanum II Part 2 ($2.16 CAD) — POSTED 06:50 PST, verified live via public API: https://bsky.app/profile/tizwildin.bsky.social/post/3mzv6ewgauw2k. First Bluesky post since Nov 7 13:49 PST. Poster posts first approved+due in sorted order, so 09 went out (not 15-adevils-game); the 07:42 AM adevils-game runonce will post the next due draft in order. Run from the Mac poster (VS Code Terminal 60).
+- **Threads posts:** `08-shadow-run-vfx.json` — Live Smog VFX & Shadow Run Map Layers ($1.37 CAD) — POSTED 06:43 PST (already posted when this run started; found in state.json, verified live via threads-cli profile-threads): https://www.threads.com/@garebearproductionz/post/DfhksKqjhtp (0 likes). Followers 217. Next due: `09-adevils-game.json`, not before ~12:43 PST (6h interval).
+- **Nostr posts:** #10 A Devil's Game ($2.10 CAD sale, was $4.20) — POSTED ~06:51 PST, verified live on relay.primal.net (event b3288112…, note https://nostr.band/note1kv5gzyjtee5ty22zw0yzr0egfn9pxc5mgchappnm9nsk7t7qwyas2t4ttt, 3/7 relays: primal, nostr.net, wellorder; damus 503, nos.lol + nostr.mom timeouts, nostr.band connection lost). Fresh angle "Build your own hell", cover via nostr.build. Note: nostr_poster.py has no --image-url flag (docstring stale); image URL goes in the note text (actual flag is --upload-image).
+- **Paying assets promoted:** Arcanum II Part 2 (Bluesky, $2.16 CAD), Live Smog VFX & Shadow Run Map Layers (Threads, $1.37 CAD), A Devil's Game (Nostr, $2.10 CAD sale).
+- **Revenue:** $0 new today (no sales verified).
+- **New routes used/found:** none today.
