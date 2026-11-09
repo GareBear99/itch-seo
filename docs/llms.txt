@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (113 items).
+Index of every public GareBearProductionz listing on itch.io (115 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -139,6 +139,11 @@ Profile: https://garebearproductionz.itch.io/
 - Blood Bound by Pixel Scythe & SVG (FREE): A free blood-bound pixel scythe in SVG and PNG — a cursed reaper weapon for dark fantasy characters and bosses.
   Page: https://garebear99.github.io/itch-seo/items/blood-bound-scythe-svg-free.html
   itch.io: https://garebearproductionz.itch.io/blood-bound-scythe-svg-free
+  Price: Free
+
+- Boss Backgrounds — Free Pack: Free boss backgrounds pack — stills, seamless vortex loop and morph videos with full frame sequences.
+  Page: https://garebear99.github.io/itch-seo/items/boss-backgrounds-free-pack.html
+  itch.io: https://garebearproductionz.itch.io/boss-backgrounds-free-pack
   Price: Free
 
 - Cash Cloud Sprite Pack (FREE): A clean vector currency pack for game UI: symbol, sigil, pulse, rain, loader spinner, animated loops. SVG and PNG.
@@ -326,6 +331,11 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/svg-icon-starter-kit-pipeline
   Price: $0.75 CAD
 
+- Minds Eye — Free Pack: 5 Eye Temple tracks — temple atmospheres, jungle pulse, aurora drift. Free music for games, streams, production.
+  Page: https://garebear99.github.io/itch-seo/items/minds-eye-free-pack.html
+  itch.io: https://garebearproductionz.itch.io/minds-eye-free-pack
+  Price: Free
+
 - MODE-7 FLOORCAST ENGINE: An SNES-style browser floorcast engine - Mode 7 floors for retro racers, overworlds, running in the browser, no install.
   Page: https://garebear99.github.io/itch-seo/items/mode-7.html
   itch.io: https://garebearproductionz.itch.io/mode-7
@@ -486,7 +496,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/static-atmos
   Price: Free
 
-- Subwoofer Crown Bass Pack (FREE): 70 game-ready bass samples - keyed 808s, phonk loops, impacts, growls, risers and UI stingers. Drift-phonk chaos, free.
+- Subwoofer Crown Bass Pack: 70 game-ready bass samples - keyed 808s, phonk loops, impacts, growls, risers and UI stingers. Drift-phonk chaos, free.
   Page: https://garebear99.github.io/itch-seo/items/subwoofer-crown-bass-pack.html
   itch.io: https://garebearproductionz.itch.io/subwoofer-crown-bass-pack
   Price: Free
