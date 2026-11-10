@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (115 items).
+Index of every public GareBearProductionz listing on itch.io (117 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -216,6 +216,11 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/fireball-generator-formula
   Price: $7.50 CAD
 
+- Flags & Banners Collection — Vol 1: 30 waving pixel-art flags: hanging banners, pole flags, pennants. Winter, gothic, hell, meadow and desert themes.
+  Page: https://garebear99.github.io/itch-seo/items/flags-banners-collection-vol-1.html
+  itch.io: https://garebearproductionz.itch.io/flags-banners-collection-vol-1
+  Price: $2.49 CAD
+
 - FREE Haunter Sprites: A free modular haunter boss, enemy pack - isolated head, expressions, hands, limbs float, rotate, lag for uncanny ghost
   Page: https://garebear99.github.io/itch-seo/items/free-haunter-sprites.html
   itch.io: https://garebearproductionz.itch.io/free-haunter-sprites
@@ -375,6 +380,11 @@ Profile: https://garebearproductionz.itch.io/
   Page: https://garebear99.github.io/itch-seo/items/orerry-solar-system-pack.html
   itch.io: https://garebearproductionz.itch.io/orerry-solar-system-pack
   Price: Free
+
+- Pharaoh's Sands — Desert Sun Court Arena Kit: A desert sun-court arena kit: pharaoh king on his throne, bonus UFO fleet, jackal and mummy crowds, 77 tiles, UI kit.
+  Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-desert-sun-court-arena-kit.html
+  itch.io: https://garebearproductionz.itch.io/pharaohs-sands-desert-sun-court-arena-kit
+  Price: $4.20 CAD
 
 - Pixel Abyssal Teleportation Device: An abyssal teleportation device - pedestal sprite in PNG and SVG - for portals, shrines, dark ritual scenes in your game
   Page: https://garebear99.github.io/itch-seo/items/pixel-abyssal-teleporter.html
