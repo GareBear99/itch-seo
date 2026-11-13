@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (120 items).
+Index of every public GareBearProductionz listing on itch.io (121 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -126,7 +126,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/arcanum-i-part-2-animated-pixel-spell-abilities-23-spells-752-frames
   Price: $2.88 CAD
 
-- Arena Crowds Collection: Arena Crowds Collection
+- Arena Crowds Collection - Vol 1: Arena Crowds Collection - Vol 1
   Page: https://garebear99.github.io/itch-seo/items/arena-crowds-collection.html
   itch.io: https://garebearproductionz.itch.io/arena-crowds-collection
   Price: $2.22 CAD
@@ -386,6 +386,11 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/orerry-solar-system-pack
   Price: Free
 
+- Palm Primal — Pygmy Tribes Arena Kit: Side-view jungle arena kit: 4 pygmy tribes, a voodoo magician, the chief's box, 77-tile autotile set, UI kit and font.
+  Page: https://garebear99.github.io/itch-seo/items/palm-primal-pygmy-tribes-arena-kit.html
+  itch.io: https://garebearproductionz.itch.io/palm-primal-pygmy-tribes-arena-kit
+  Price: $4.20 CAD
+
 - Pharaoh's Sands Crowds: Pharaoh's Sands Crowds
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-crowds.html
   itch.io: https://garebearproductionz.itch.io/pharaohs-sands-crowds
@@ -394,7 +399,7 @@ Profile: https://garebearproductionz.itch.io/
 - Pharaoh's Sands Operators: 26 animated operators from the Pharaoh's Sands fleet: 22 crew + 4 UFO pilots, loops on transparent backgrounds.
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-operators.html
   itch.io: https://garebearproductionz.itch.io/pharaohs-sands-operators
-  Price: $2.50 CAD
+  Price: $1.25 CAD
 
 - Pharaoh's Sands — Desert Sun Court Arena Kit: A desert sun-court arena kit: pharaoh king on his throne, bonus UFO fleet, jackal and mummy crowds, 77 tiles, UI kit.
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-desert-sun-court-arena-kit.html
