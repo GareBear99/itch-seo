@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (119 items).
+Index of every public GareBearProductionz listing on itch.io (120 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -390,6 +390,11 @@ Profile: https://garebearproductionz.itch.io/
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-crowds.html
   itch.io: https://garebearproductionz.itch.io/pharaohs-sands-crowds
   Price: $2.22 CAD
+
+- Pharaoh's Sands Operators: 26 animated operators from the Pharaoh's Sands fleet: 22 crew + 4 UFO pilots, loops on transparent backgrounds.
+  Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-operators.html
+  itch.io: https://garebearproductionz.itch.io/pharaohs-sands-operators
+  Price: $2.50 CAD
 
 - Pharaoh's Sands — Desert Sun Court Arena Kit: A desert sun-court arena kit: pharaoh king on his throne, bonus UFO fleet, jackal and mummy crowds, 77 tiles, UI kit.
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-desert-sun-court-arena-kit.html
