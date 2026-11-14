@@ -404,7 +404,7 @@ Profile: https://garebearproductionz.itch.io/
 - Pharaoh's Sands Warriors: 20 mini desert soldiers: 5 roles x 4 teams, walk, spear, khopesh, bow and staff. Pixel art for your game.
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-warriors.html
   itch.io: https://garebearproductionz.itch.io/pharaohs-sands-warriors
-  Price: $4.99 CAD
+  Price: $2.49 CAD
 
 - Pharaoh's Sands — Desert Sun Court Arena Kit: A desert sun-court arena kit: pharaoh king on his throne, bonus UFO fleet, jackal and mummy crowds, 77 tiles, UI kit.
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-desert-sun-court-arena-kit.html
