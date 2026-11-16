@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (122 items).
+Index of every public GareBearProductionz listing on itch.io (123 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -390,6 +390,11 @@ Profile: https://garebearproductionz.itch.io/
   Page: https://garebear99.github.io/itch-seo/items/palm-primal-pygmy-tribes-arena-kit.html
   itch.io: https://garebearproductionz.itch.io/palm-primal-pygmy-tribes-arena-kit
   Price: $4.20 CAD
+
+- Pharaoh's Sands Bundle — Oasis Tilemap + Wasteland Add-On: Two packs. The living desert and the dead one. Oasis tilemap + wasteland add-on, same 34-colour palette.
+  Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-bundle-oasis-tilemap-wasteland-add-on.html
+  itch.io: https://garebearproductionz.itch.io/pharaohs-sands-bundle-oasis-tilemap-wasteland-add-on
+  Price: $1.25 CAD
 
 - Pharaoh's Sands Crowds: Pharaoh's Sands Crowds
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-crowds.html
