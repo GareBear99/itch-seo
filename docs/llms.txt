@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (123 items).
+Index of every public GareBearProductionz listing on itch.io (125 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -19,7 +19,7 @@ Profile: https://garebearproductionz.itch.io/
 - 12 Sigil Color Dynamic Icon SVG Export Pack & Hover FX Engine: 12 Sigil Color Dynamic Icon SVG Export Pack & Hover FX Engine
   Page: https://garebear99.github.io/itch-seo/items/color-dynamic-sigils-svg-export-pack.html
   itch.io: https://garebearproductionz.itch.io/color-dynamic-sigils-svg-export-pack
-  Price: $1.66 CAD
+  Price: $2.49 CAD
 
 - 120 Elemental VFX Pixel Abilities & Icons: 120 animated magic effects, 12 families, fire, frost, blood, void and more, 960 frames, 120 icons, Godot/Unity guides
   Page: https://garebear99.github.io/itch-seo/items/120-elemental-vfx-pixel-abilities-icons.html
@@ -74,12 +74,12 @@ Profile: https://garebearproductionz.itch.io/
 - AAAA Indie Dynamic Merchant Cart: Merchant Dynamic Environment Engine
   Page: https://garebear99.github.io/itch-seo/items/indie-dynamic-merchant-cart.html
   itch.io: https://garebearproductionz.itch.io/indie-dynamic-merchant-cart
-  Price: $10.00 CAD
+  Price: $15.00 CAD
 
 - AAAA Layered Mountain Dynamic Sky Live Backdrop Engine: AAAA Layered Mountain Dynamic Sky Live Backdrop Engine
   Page: https://garebear99.github.io/itch-seo/items/aaaa-layered-mountain-dynamic-sky-live-backdrop-engine.html
   itch.io: https://garebearproductionz.itch.io/aaaa-layered-mountain-dynamic-sky-live-backdrop-engine
-  Price: $0.75 CAD
+  Price: $1.12 CAD
 
 - AAAA Pixel Combat Timeline Engine: Early Access - Hitbox, Hurtbox, Attack State, Knockback & Animation Metadata Forge
   Page: https://garebear99.github.io/itch-seo/items/aaaa-pixel-combat-timeline-engine.html
@@ -126,7 +126,7 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/arcanum-i-part-2-animated-pixel-spell-abilities-23-spells-752-frames
   Price: $2.88 CAD
 
-- Arena Crowds Collection - Vol 1: Arena Crowds Collection - Vol 1
+- Arena Crowds Collection Vol 1 - 700 Assets: Arena Crowds Collection Vol 1 - 700 Assets
   Page: https://garebear99.github.io/itch-seo/items/arena-crowds-collection.html
   itch.io: https://garebearproductionz.itch.io/arena-crowds-collection
   Price: $2.22 CAD
@@ -139,7 +139,7 @@ Profile: https://garebearproductionz.itch.io/
 - Black & Red Dice SVG & PNG 2D-3D Export Engine: A D6 dice engine with correct opposite pairs, 24 valid cube orientations, random roll, force top face, SVG/PNG export.
   Page: https://garebear99.github.io/itch-seo/items/black-red-dice-svg-png-export-engine.html
   itch.io: https://garebearproductionz.itch.io/black-red-dice-svg-png-export-engine
-  Price: $3.50 CAD
+  Price: $5.25 CAD
 
 - Blood Bound by Pixel Scythe & SVG (FREE): A free blood-bound pixel scythe in SVG and PNG — a cursed reaper weapon for dark fantasy characters and bosses.
   Page: https://garebear99.github.io/itch-seo/items/blood-bound-scythe-svg-free.html
@@ -166,6 +166,11 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/ichor-glyph
   Price: $1.13 CAD
 
+- Cinder Wastes - 283 Assets: 283 assets. Volcanic wasteland backdrop + 4-phase lava floor for side-view games. 34 colours, animated, commercial OK.
+  Page: https://garebear99.github.io/itch-seo/items/cinder-wastes.html
+  itch.io: https://garebearproductionz.itch.io/cinder-wastes
+  Price: $2.49 CAD
+
 - Cloudworks — Pixel Cloud & Parallax Toolkit + Trains: A procedural pixel-sky engine: seeded clouds, parallax horizons, a train on the trestle — export the whole scene.
   Page: https://garebear99.github.io/itch-seo/items/cloudworks-pixel-cloud-parallax-toolkit-trains.html
   itch.io: https://garebearproductionz.itch.io/cloudworks-pixel-cloud-parallax-toolkit-trains
@@ -189,7 +194,7 @@ Profile: https://garebearproductionz.itch.io/
 - Dark Fantasy Modular GUI Pack - 704 UI Assets + 160 Icons: Full Graphical Interface - 704 UI Assets + 160 Icons + 64 Glyphs
   Page: https://garebear99.github.io/itch-seo/items/dark-fantasy-modular-gui-pack-704-ui-assets-160-icons.html
   itch.io: https://garebearproductionz.itch.io/dark-fantasy-modular-gui-pack-704-ui-assets-160-icons
-  Price: $7.15 CAD
+  Price: $6.17 CAD
 
 - DIVINITY — the Imperilator arms and the seven sins (FREE): 13 animated holy weapons, 416 frames: 5 holy arms, their infernal counterpart, one weapon per deadly sin. 96px, looping.
   Page: https://garebear99.github.io/itch-seo/items/divinity-the-imperilator-arms-and-the-seven-sins.html
@@ -214,12 +219,12 @@ Profile: https://garebearproductionz.itch.io/
 - Evil Eye Four Pack & Live SVG Animations: Four evil eyes with live SVG animations — warding, watchful icons for menus, HUDs, ritual scenes, dark fantasy games.
   Page: https://garebear99.github.io/itch-seo/items/evil-eye-four-pack.html
   itch.io: https://garebearproductionz.itch.io/evil-eye-four-pack
-  Price: $0.50 CAD
+  Price: $0.75 CAD
 
 - FireBall Generator & Formula/Sprite Exporter: FireBall Generator & Formula/Sprite Exporter
   Page: https://garebear99.github.io/itch-seo/items/fireball-generator-formula.html
   itch.io: https://garebearproductionz.itch.io/fireball-generator-formula
-  Price: $7.50 CAD
+  Price: $11.25 CAD
 
 - Flags & Banners Collection — Vol 1: 30 waving pixel-art flags: hanging banners, pole flags, pennants. Winter, gothic, hell, meadow and desert themes.
   Page: https://garebear99.github.io/itch-seo/items/flags-banners-collection-vol-1.html
@@ -289,7 +294,7 @@ Profile: https://garebearproductionz.itch.io/
 - Holy Live FX SVG & PNG Icon 8-Set Pipeline Kit: 8 holy SVG and PNG icons for instant pipeline use - crisp from 16×16 HUD icons to 4K menu art, blessed, celestial UI.
   Page: https://garebear99.github.io/itch-seo/items/holy-svg-png-icon-set.html
   itch.io: https://garebearproductionz.itch.io/holy-svg-png-icon-set
-  Price: $2.00 CAD
+  Price: $3.00 CAD
 
 - Impact FX - Christmas Edition | Pixel Winter VFX + SFX Pack: 10 animated winter VFX in 4 colourways, shattering ornaments, blooming snowflakes, crashing icicles, 36 SFX, 336 frames
   Page: https://garebear99.github.io/itch-seo/items/impact-fx-christmas-edition-pixel-winter-vfx-sfx-pack.html
@@ -339,7 +344,7 @@ Profile: https://garebearproductionz.itch.io/
 - Live SVG Icon Starter Kit Pipeline + 4 Live Hell FX Icons: Decrepit Shadows Icon Starter Kit
   Page: https://garebear99.github.io/itch-seo/items/svg-icon-starter-kit-pipeline.html
   itch.io: https://garebearproductionz.itch.io/svg-icon-starter-kit-pipeline
-  Price: $0.75 CAD
+  Price: $1.12 CAD
 
 - Minds Eye — Free Pack: 5 Eye Temple tracks — temple atmospheres, jungle pulse, aurora drift. Free music for games, streams, production.
   Page: https://garebear99.github.io/itch-seo/items/minds-eye-free-pack.html
@@ -396,11 +401,6 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/pharaohs-sands-bundle-oasis-tilemap-wasteland-add-on
   Price: $1.25 CAD
 
-- Pharaoh's Sands Crowds: Pharaoh's Sands Crowds
-  Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-crowds.html
-  itch.io: https://garebearproductionz.itch.io/pharaohs-sands-crowds
-  Price: $2.22 CAD
-
 - Pharaoh's Sands Operators: 26 animated operators from the Pharaoh's Sands fleet: 22 crew + 4 UFO pilots, loops on transparent backgrounds.
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-operators.html
   itch.io: https://garebearproductionz.itch.io/pharaohs-sands-operators
@@ -415,6 +415,11 @@ Profile: https://garebearproductionz.itch.io/
   Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-desert-sun-court-arena-kit.html
   itch.io: https://garebearproductionz.itch.io/pharaohs-sands-desert-sun-court-arena-kit
   Price: $4.20 CAD
+
+- Pharaoh’s Sands Crowds - 450 Assets: Pharaoh’s Sands Crowds - 450 Assets
+  Page: https://garebear99.github.io/itch-seo/items/pharaohs-sands-crowds.html
+  itch.io: https://garebearproductionz.itch.io/pharaohs-sands-crowds
+  Price: $2.22 CAD
 
 - Pixel Abyssal Teleportation Device: An abyssal teleportation device - pedestal sprite in PNG and SVG - for portals, shrines, dark ritual scenes in your game
   Page: https://garebear99.github.io/itch-seo/items/pixel-abyssal-teleporter.html
@@ -449,7 +454,7 @@ Profile: https://garebearproductionz.itch.io/
 - Professional Occult Covenant Icon Kit & FX Formula: Includes Live SVG Execution Pipelines
   Page: https://garebear99.github.io/itch-seo/items/professional-occult-covenant-icon-kit.html
   itch.io: https://garebearproductionz.itch.io/professional-occult-covenant-icon-kit
-  Price: $3.33 CAD
+  Price: $4.99 CAD
 
 - Pyre Fire Pack Generator Tools: Pyre fire tools: build your own fires, bonus ember bowl sets lit and unlit, sample random generator, dark fantasy scenes
   Page: https://garebear99.github.io/itch-seo/items/pyre-fire-pack-generator-tools.html
@@ -464,7 +469,7 @@ Profile: https://garebearproductionz.itch.io/
 - Reward Pocket Generator Formula: Type a symbol, pick a glow colour, export a PNG - glowing runes for loot drops, spell sockets, terminals, RPG inventory.
   Page: https://garebear99.github.io/itch-seo/items/reward-pocket-generator-formula.html
   itch.io: https://garebearproductionz.itch.io/reward-pocket-generator-formula
-  Price: $0.50 CAD
+  Price: $0.75 CAD
 
 - Rift Edge - Laser Sword & Glow Slash Pack: Ten beam swords, twenty-four cuts with burning vanta rims - each sword as still, strip, 12-frame ignition, generator.
   Page: https://garebear99.github.io/itch-seo/items/rift-edge-laser-sword-glow-slash-pack.html
@@ -524,7 +529,7 @@ Profile: https://garebearproductionz.itch.io/
 - Spectral Icon SVG Pipeline Kit: 8 spectral SVG and PNG icons for instant pipeline use - crisp from 16×16 HUD icons to 4K menu art, ghost, realm UI.
   Page: https://garebear99.github.io/itch-seo/items/spectral-icon-svg-pipeline-kit.html
   itch.io: https://garebearproductionz.itch.io/spectral-icon-svg-pipeline-kit
-  Price: $1.66 CAD
+  Price: $2.49 CAD
 
 - Sphinx Pyramid Activation Layered Live Animated Map Backdrop: Sphinx Pyramid Activation Layered Live Animated Map Backdrop
   Page: https://garebear99.github.io/itch-seo/items/sphinx-activation-layered-live-map.html
@@ -535,6 +540,11 @@ Profile: https://garebearproductionz.itch.io/
   Page: https://garebear99.github.io/itch-seo/items/static-atmos.html
   itch.io: https://garebearproductionz.itch.io/static-atmos
   Price: Free
+
+- Static Sprawl - 184 Assets: 184 assets. Rain-soaked cyberpunk city + wet neon street for side-view games. 34 colours, animated, commercial OK.
+  Page: https://garebear99.github.io/itch-seo/items/static-sprawl.html
+  itch.io: https://garebearproductionz.itch.io/static-sprawl
+  Price: $3.49 CAD
 
 - Subwoofer Crown Bass Pack: 70 game-ready bass samples - keyed 808s, phonk loops, impacts, growls, risers and UI stingers. Drift-phonk chaos, free.
   Page: https://garebear99.github.io/itch-seo/items/subwoofer-crown-bass-pack.html
@@ -584,7 +594,7 @@ Profile: https://garebearproductionz.itch.io/
 - Thor Mjölnir 4 Set + SVG Physics Velocity Engine + Bonus Quake Hammer Set: Pixel Thor Mjölnir Norse Mythology Physics Engine
   Page: https://garebear99.github.io/itch-seo/items/thor-mjolnir-svg-physics-engine.html
   itch.io: https://garebearproductionz.itch.io/thor-mjolnir-svg-physics-engine
-  Price: $1.00 CAD
+  Price: $1.50 CAD
 
 - Transparent D20 Dice Color 3D OBJ Pack: A 3D transparent D20 with glowing numbers, glass shading, hue-shifted colours, spin, roll, recolour, OBJ, PNG export.
   Page: https://garebear99.github.io/itch-seo/items/d20-dice-color-3d-obj-pack.html
