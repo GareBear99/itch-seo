@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (125 items).
+Index of every public GareBearProductionz listing on itch.io (127 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -109,7 +109,7 @@ Profile: https://garebearproductionz.itch.io/
 - Animated VFX UI Pack - 80+ Assets: 80 animated UI effects, 4-theme, Spectral, Blood, Bone, Holy Void, panels, buttons, bars, overlays, offline Asset Studio
   Page: https://garebear99.github.io/itch-seo/items/animated-vfx-ui-pack-80-assets.html
   itch.io: https://garebearproductionz.itch.io/animated-vfx-ui-pack-80-assets
-  Price: $3.75 CAD
+  Price: $2.62 CAD
 
 - Any Image to Pixel SVG Converter (Only 1 FREE): Any Image to Pixel SVG Converter
   Page: https://garebear99.github.io/itch-seo/items/any-image-to-pixel-svg-converter.html
@@ -194,7 +194,7 @@ Profile: https://garebearproductionz.itch.io/
 - Dark Fantasy Modular GUI Pack - 704 UI Assets + 160 Icons: Full Graphical Interface - 704 UI Assets + 160 Icons + 64 Glyphs
   Page: https://garebear99.github.io/itch-seo/items/dark-fantasy-modular-gui-pack-704-ui-assets-160-icons.html
   itch.io: https://garebearproductionz.itch.io/dark-fantasy-modular-gui-pack-704-ui-assets-160-icons
-  Price: $6.17 CAD
+  Price: $3.32 CAD
 
 - DIVINITY — the Imperilator arms and the seven sins (FREE): 13 animated holy weapons, 416 frames: 5 holy arms, their infernal counterpart, one weapon per deadly sin. 96px, looping.
   Page: https://garebear99.github.io/itch-seo/items/divinity-the-imperilator-arms-and-the-seven-sins.html
@@ -209,12 +209,22 @@ Profile: https://garebearproductionz.itch.io/
 - Elemental Wisp Sprite Pack: 8 elemental wisps, Graveglow, Nightveil, Bloodwick and more - 96 animation sets, 832 frames, 48 abilities, Wisp Studio.
   Page: https://garebear99.github.io/itch-seo/items/elemental-wisp-sprite-pack.html
   itch.io: https://garebearproductionz.itch.io/elemental-wisp-sprite-pack
-  Price: $2.16 CAD
+  Price: $1.16 CAD
 
 - ENCHANTED SPRITE VFX ENGINE: Drop a sprite in, make it shiny, export it - 12 elements, 10 rarity tiers, PNG, GIF, sprite sheets, ZIPs, no install.
   Page: https://garebear99.github.io/itch-seo/items/enchanted-sprite-vfx-engine.html
   itch.io: https://garebearproductionz.itch.io/enchanted-sprite-vfx-engine
   Price: $8.45 CAD
+
+- Eternal Dungeon — Volume I & II Part One: 12 animated occult cards: 9 Volume I + 3 Cardinals, dual V1/V2 backs, 112 animations, viewer included.
+  Page: https://garebear99.github.io/itch-seo/items/eternal-dungeon-core-deck.html
+  itch.io: https://garebearproductionz.itch.io/eternal-dungeon-core-deck
+  Price: $5.62 CAD
+
+- Eternal Dungeon — Volume II Part Two: System Cards (FREE): 3 free System cards: Nekral Catalyst, Clean Chaos, All-State Leylines. V1/V2 faces and backs, viewer included.
+  Page: https://garebear99.github.io/itch-seo/items/eternal-dungeon-volume-ii-part-two-system-cards.html
+  itch.io: https://garebearproductionz.itch.io/eternal-dungeon-volume-ii-part-two-system-cards
+  Price: Free
 
 - Evil Eye Four Pack & Live SVG Animations: Four evil eyes with live SVG animations — warding, watchful icons for menus, HUDs, ritual scenes, dark fantasy games.
   Page: https://garebear99.github.io/itch-seo/items/evil-eye-four-pack.html
@@ -456,10 +466,10 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/professional-occult-covenant-icon-kit
   Price: $4.99 CAD
 
-- Pyre Fire Pack Generator Tools: Pyre fire tools: build your own fires, bonus ember bowl sets lit and unlit, sample random generator, dark fantasy scenes
+- Pyre Fire Pack Generator Tools - +80 fire sprites: Pyre fire tools: build your own fires, bonus ember bowl sets lit and unlit, sample random generator, dark fantasy scenes
   Page: https://garebear99.github.io/itch-seo/items/pyre-fire-pack-generator-tools.html
   itch.io: https://garebearproductionz.itch.io/pyre-fire-pack-generator-tools
-  Price: $3.25 CAD
+  Price: $1.75 CAD
 
 - Pyro-Maniac Chibi Sprite Pack (FREE): Free chibi pyro sprites - PyroImp, PyroManiac, BloodLust Phase 1 and more, ready to burn through your next fire game.
   Page: https://garebear99.github.io/itch-seo/items/pyromancy-chibi-pack.html
