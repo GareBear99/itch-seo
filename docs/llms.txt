@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (127 items).
+Index of every public GareBearProductionz listing on itch.io (130 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -221,6 +221,11 @@ Profile: https://garebearproductionz.itch.io/
   itch.io: https://garebearproductionz.itch.io/eternal-dungeon-core-deck
   Price: $2.62 CAD
 
+- Eternal Dungeon Card Matrix: P97 Runes, Tree of Life, 291 Doors: 420 cards: 97 P97 runes, 32 Tree of Life routes, 291 closed doors. The full Eternal Dungeon matrix.
+  Page: https://garebear99.github.io/itch-seo/items/eternal-dungeon-matrix-p97-runes-tree-of-life-291-doors.html
+  itch.io: https://garebearproductionz.itch.io/eternal-dungeon-matrix-p97-runes-tree-of-life-291-doors
+  Price: $3.49 CAD
+
 - Eternal Dungeon — Volume II Part Two: System Cards (FREE): 3 free System cards: Nekral Catalyst, Clean Chaos, All-State Leylines. V1/V2 faces and backs, viewer included.
   Page: https://garebear99.github.io/itch-seo/items/eternal-dungeon-volume-ii-part-two-system-cards.html
   itch.io: https://garebearproductionz.itch.io/eternal-dungeon-volume-ii-part-two-system-cards
@@ -260,6 +265,11 @@ Profile: https://garebearproductionz.itch.io/
   Page: https://garebear99.github.io/itch-seo/items/frostbound-arena-winter-pixel-arena-kit-tileset-heroes-enemies-boss-ui-sfx-music.html
   itch.io: https://garebearproductionz.itch.io/frostbound-arena-winter-pixel-arena-kit-tileset-heroes-enemies-boss-ui-sfx-music
   Price: Free
+
+- FrostFall - Christmas Elves: Two packs in one: a snowbound gothic village at night plus 12 Christmas elves with gift bombs, huts and rain FX.
+  Page: https://garebear99.github.io/itch-seo/items/frostfall-christmas-elves.html
+  itch.io: https://garebearproductionz.itch.io/frostfall-christmas-elves
+  Price: $4.50 CAD
 
 - Gossamer — 289 Pixel Cobwebs, Corner Webs & Screen Overlays: 289 pixel cobwebs, 5 thread colours, corner webs, membrane webs, orbs, strands, 9 full-screen overlays, Python included
   Page: https://garebear99.github.io/itch-seo/items/gossamer-pixel-cobwebs-corner-webs-screen-overlays.html
@@ -309,7 +319,7 @@ Profile: https://garebearproductionz.itch.io/
 - Impact FX - Christmas Edition | Pixel Winter VFX + SFX Pack: 10 animated winter VFX in 4 colourways, shattering ornaments, blooming snowflakes, crashing icicles, 36 SFX, 336 frames
   Page: https://garebear99.github.io/itch-seo/items/impact-fx-christmas-edition-pixel-winter-vfx-sfx-pack.html
   itch.io: https://garebearproductionz.itch.io/impact-fx-christmas-edition-pixel-winter-vfx-sfx-pack
-  Price: $0.96 CAD
+  Price: $0.54 CAD
 
 - Impact FX - Halloween Edition | Pixel Spooky VFX + SFX Pack: 10 spooky animated VFX in 4 colourways, exploding pumpkins, drifting ghosts, bat swarms, lightning, 36 SFX, 292 frames.
   Page: https://garebear99.github.io/itch-seo/items/impact-fx-halloween-edition-pixel-spooky-vfx-sfx-pack.html
@@ -490,6 +500,11 @@ Profile: https://garebearproductionz.itch.io/
   Page: https://garebear99.github.io/itch-seo/items/riftedge-1001-slash-fx.html
   itch.io: https://garebearproductionz.itch.io/riftedge-1001-slash-fx
   Price: Free
+
+- Santa's Steampunk Workshop & Cursed Toys Bundle: Two packs in one: a steampunk toy-factory backdrop plus 6 haunted toys — 24 characters, 5 animations each.
+  Page: https://garebear99.github.io/itch-seo/items/santas-steampunk-workshop-cursed-toys-bundle.html
+  itch.io: https://garebearproductionz.itch.io/santas-steampunk-workshop-cursed-toys-bundle
+  Price: $9.00 CAD
 
 - Scarlet Witch DarkHold Sprite (FREE): A free sprite of the Darkhold, forbidden grimoire from the Book of the Damned — a cursed relic for dark fantasy games.
   Page: https://garebear99.github.io/itch-seo/items/scarlette-witchs-darkhold-sprite-free.html
