@@ -1,6 +1,6 @@
 # GareBearProductionz itch index
 
-Index of every public GareBearProductionz listing on itch.io (130 items).
+Index of every public GareBearProductionz listing on itch.io (131 items).
 Home: https://garebear99.github.io/itch-seo/
 Profile: https://garebearproductionz.itch.io/
 
@@ -185,6 +185,11 @@ Profile: https://garebearproductionz.itch.io/
   Page: https://garebear99.github.io/itch-seo/items/cosmic-disruption-free-fast-paced-game-music-pack.html
   itch.io: https://garebearproductionz.itch.io/cosmic-disruption-free-fast-paced-game-music-pack
   Price: Free
+
+- Dark City - Rainy Industrial Night City Backdrop: Rainy industrial night-city backdrop: 3 fences, wet streets, rain, embers. 282 files.
+  Page: https://garebear99.github.io/itch-seo/items/dark-city-rainy-industrial-night-city-backdrop.html
+  itch.io: https://garebearproductionz.itch.io/dark-city-rainy-industrial-night-city-backdrop
+  Price: $6.37 CAD
 
 - Dark Fantasy Dungeon Builder - Free Four-Realm Tileset: Build dungeons across 4 realms: 1,056 modular tiles, 80 objects, 40 premade rooms, 12 demo maps, Tiled files, painter.
   Page: https://garebear99.github.io/itch-seo/items/dark-fantasy-dungeon-builder-free-four-realm-tileset.html
